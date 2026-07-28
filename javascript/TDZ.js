@@ -1,0 +1,1 @@
+// TDZ is a behavior in JavaScript where variables declared with let and const are not accessible before their declaration is evaluated. This means that if you try to access a variable in the temporal dead zone, it will throw a ReferenceError.
