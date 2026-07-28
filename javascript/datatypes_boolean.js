@@ -1,6 +1,5 @@
 // boolean datatypes
 
-
 // falsy value- zero value->   0, "" i.e. empty string, null, undefined, NaN, false
 // truthy value- non zero values->  1, "hello", [], {}, true
 
@@ -64,8 +63,6 @@ console.log(l19); // true
 let l20 = Boolean("{}");
 console.log(l20); // true
 
- 
-
 //-------------------------------------------
 
 let b1 = Boolean(parseInt("10px"));
@@ -73,29 +70,28 @@ console.log(b1); // true
 console.log(parseInt("10px")); // 10
 console.log(typeof b1); // boolean
 
-
 //  o/p -
 
-false
-true
-false
-true
-false
-false
-false
-true
-true
-false
-true
-true
-true
-true
-true
-true
-true
-true
-true
-true
-true
-10
-boolean
+false;
+true;
+false;
+true;
+false;
+false;
+false;
+true;
+true;
+false;
+true;
+true;
+true;
+true;
+true;
+true;
+true;
+true;
+true;
+true;
+true;
+10;
+boolean;

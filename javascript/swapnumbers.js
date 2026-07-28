@@ -42,8 +42,6 @@
 // 1. The first element (**`7`**) is assigned to **`a`**. Now `a` becomes **`7`**.
 // 2. The second element (**`10`**) is assigned to **`b`**. Now `b` becomes **`10`**.
 
-
-
 // ---
 
 // ## 4. Final Logging
@@ -63,8 +61,6 @@
 // Normally, doing `a = b` directly overwrites `a` before you can give `a`'s old value to `b`.
 
 // With destructuring, the array `[b, a]` (containing `[7, 10]`) is created in temporary memory **before** any reassignment happens on the left side, keeping both original values safe during the swap.
-
-
 
 let a = 10;
 let b = 7;

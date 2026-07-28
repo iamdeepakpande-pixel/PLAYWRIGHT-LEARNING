@@ -1,7 +1,6 @@
 // collection
 
-// sci , math , arts 
-
+// sci , math , arts
 
 // let vaibhavSciMarks = 85;
 // let vaibhavMathMarks = 90;
@@ -15,13 +14,12 @@
 
 // JSON -   object - key value pair datatype
 
-let vaibhavMarksObj = 
-{
-  "sci": 85,
-  "math": 90,
-  "arts": 78,
+let vaibhavMarksObj = {
+  sci: 85,
+  math: 90,
+  arts: 78,
   name: "vaibhav",
-}
+};
 console.log(vaibhavMarksObj.sci); // 85
 console.log(vaibhavMarksObj.math); // 90
 console.log(vaibhavMarksObj.arts); // 78

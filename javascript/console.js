@@ -12,6 +12,6 @@ myaddress = "pune, maharashtra, india";
 myemail = "abc@example.com";
 myphone = "1234567890";
 
-
-console.log(`my name is ${myname}, i am from${mycity}, ${myprofession}, my hobby is ${myhobby}, my age is ${myage}, my height is ${myheight}, my weight is ${myweight}, my blood group is ${mybloodgroup}, my address is ${myaddress}, my email is ${myemail}, my phone number is ${myphone}`);
-
+console.log(
+  `my name is ${myname}, i am from${mycity}, ${myprofession}, my hobby is ${myhobby}, my age is ${myage}, my height is ${myheight}, my weight is ${myweight}, my blood group is ${mybloodgroup}, my address is ${myaddress}, my email is ${myemail}, my phone number is ${myphone}`,
+);

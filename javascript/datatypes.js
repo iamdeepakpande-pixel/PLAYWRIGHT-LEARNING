@@ -21,16 +21,13 @@ let user = { name: "Alex", age: 30 };  // Object
 // console.log(typeof a); // number
 // console.log(a); // 10
 
-
 // let a = 10.45;
 // console.log(typeof a); // number
 // console.log(a); // 10.45
 
-
 // let a = (10/3).toFixed(4);
 // console.log(typeof a); // string
 // console.log(a); // "3.33"
-
 
 // // // number datatype- 3 ways to declare a number
 
@@ -44,7 +41,7 @@ let user = { name: "Alex", age: 30 };  // Object
 
 // let a = new Number("10px");
 // console.log(typeof a); // object
-// console.log(a); // Number { 10 } 
+// console.log(a); // Number { 10 }
 
 // parseFloat:
 
@@ -52,20 +49,17 @@ let user = { name: "Alex", age: 30 };  // Object
 // console.log(typeof a); // number
 // console.log(a); // NaN  (NOT A NUMBER) because the string cannot be converted to a number
 
-
 // // MAXIMUM_SAFE_INTEGER: 9007199254740991
 
 // console.log(Number.MAX_SAFE_INTEGER); // 9007199254740991
 // console.log(Number.MAX_SAFE_INTEGER - 1); // 9007199254740990
 // console.log(Number.MAX_SAFE_INTEGER -2);
 
-
 // // MINIMUM_SAFE_INTEGER: -9007199254740991
 
 // console.log(Number.MIN_SAFE_INTEGER);
 // console.log(Number.MIN_SAFE_INTEGER - 1); //
 // console.log(Number.MIN_SAFE_INTEGER -2);
-
 
 // BIGINT: 9007199254740991n
 
@@ -81,5 +75,3 @@ let user = { name: "Alex", age: 30 };  // Object
 
 // let b = BigInt("90071992547409913456790897");
 // console.log(b);  // 90071992547409913456790897n
-
-
