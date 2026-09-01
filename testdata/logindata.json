@@ -1,0 +1,29 @@
+
+{
+  "id": 1,
+  "name": "Jane Doe",
+  "email": "jane.doe@example.com",
+  "isActive": true,
+  "roles": ["admin", "user"],
+  "username": "jane_doe",
+  "password": "password123",
+  "status": "active",
+  "phone": "123-456-7890",
+"address": {
+    "street": "123 Main St",
+    "city": "New York",
+    "state": "NY",
+    "pincode": "10001",
+    "country": "USA"
+
+},
+
+  "profile": {
+    "city": "Pune",
+    "age": 28,
+    "dob": "10 october 1994",
+    "about": "engineer"
+
+  }
+
+}

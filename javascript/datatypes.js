@@ -75,3 +75,8 @@ let user = { name: "Alex", age: 30 };  // Object
 
 // let b = BigInt("90071992547409913456790897");
 // console.log(b);  // 90071992547409913456790897n
+
+// note-  The "typeof" Bug: Running typeof null returns "object". This is a famous, historical bug in JavaScript that was never fixed to avoid breaking older websites
+
+// let searchResult = null; // Deliberately set to signify "no data found"
+// console.log(typeof null); // "object" (Bug alert!)

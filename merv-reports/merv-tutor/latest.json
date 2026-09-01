@@ -1,0 +1,302 @@
+{
+  "version": 3,
+  "sourceFile": "javascript/collection.js",
+  "sourceText": "// collection\n\n// sci , math , arts\n\n// let vaibhavSciMarks = 85;\n// let vaibhavMathMarks = 90;\n// let vaibhavArtsMarks = 78;\n\n// // array -  indexed datatype - starts from  0 index\n// let vaibhavMarks = [90, 85, 70, ];\n// console.log(vaibhavMarks[0]); // 90\n// console.log(vaibhavMarks[1]); // 85\n// console.log(vaibhavMarks[2]); // 70\n\n// JSON -   object - key value pair datatype\n\nlet vaibhavMarksObj = {\n  sci: 85,\n  math: 90,\n  arts: 78,\n  name: \"vaibhav\",\n};\nconsole.log(vaibhavMarksObj.sci); // 85\nconsole.log(vaibhavMarksObj.math); // 90\nconsole.log(vaibhavMarksObj.arts); // 78\nconsole.log(vaibhavMarksObj.name); // vaibhav\n",
+  "sourceLines": [
+    "// collection",
+    "",
+    "// sci , math , arts",
+    "",
+    "// let vaibhavSciMarks = 85;",
+    "// let vaibhavMathMarks = 90;",
+    "// let vaibhavArtsMarks = 78;",
+    "",
+    "// // array -  indexed datatype - starts from  0 index",
+    "// let vaibhavMarks = [90, 85, 70, ];",
+    "// console.log(vaibhavMarks[0]); // 90",
+    "// console.log(vaibhavMarks[1]); // 85",
+    "// console.log(vaibhavMarks[2]); // 70",
+    "",
+    "// JSON -   object - key value pair datatype",
+    "",
+    "let vaibhavMarksObj = {",
+    "  sci: 85,",
+    "  math: 90,",
+    "  arts: 78,",
+    "  name: \"vaibhav\",",
+    "};",
+    "console.log(vaibhavMarksObj.sci); // 85",
+    "console.log(vaibhavMarksObj.math); // 90",
+    "console.log(vaibhavMarksObj.arts); // 78",
+    "console.log(vaibhavMarksObj.name); // vaibhav",
+    ""
+  ],
+  "codeLines": [
+    {
+      "sourceLine": 17,
+      "text": "let vaibhavMarksObj = {"
+    },
+    {
+      "sourceLine": 18,
+      "text": "  sci: 85,"
+    },
+    {
+      "sourceLine": 19,
+      "text": "  math: 90,"
+    },
+    {
+      "sourceLine": 20,
+      "text": "  arts: 78,"
+    },
+    {
+      "sourceLine": 21,
+      "text": "  name: \"vaibhav\","
+    },
+    {
+      "sourceLine": 22,
+      "text": "};"
+    },
+    {
+      "sourceLine": 23,
+      "text": "console.log(vaibhavMarksObj.sci); // 85"
+    },
+    {
+      "sourceLine": 24,
+      "text": "console.log(vaibhavMarksObj.math); // 90"
+    },
+    {
+      "sourceLine": 25,
+      "text": "console.log(vaibhavMarksObj.arts); // 78"
+    },
+    {
+      "sourceLine": 26,
+      "text": "console.log(vaibhavMarksObj.name); // vaibhav"
+    }
+  ],
+  "files": [
+    {
+      "id": "javascript/collection.js",
+      "name": "javascript/collection.js",
+      "sourceText": "// collection\n\n// sci , math , arts\n\n// let vaibhavSciMarks = 85;\n// let vaibhavMathMarks = 90;\n// let vaibhavArtsMarks = 78;\n\n// // array -  indexed datatype - starts from  0 index\n// let vaibhavMarks = [90, 85, 70, ];\n// console.log(vaibhavMarks[0]); // 90\n// console.log(vaibhavMarks[1]); // 85\n// console.log(vaibhavMarks[2]); // 70\n\n// JSON -   object - key value pair datatype\n\nlet vaibhavMarksObj = {\n  sci: 85,\n  math: 90,\n  arts: 78,\n  name: \"vaibhav\",\n};\nconsole.log(vaibhavMarksObj.sci); // 85\nconsole.log(vaibhavMarksObj.math); // 90\nconsole.log(vaibhavMarksObj.arts); // 78\nconsole.log(vaibhavMarksObj.name); // vaibhav\n",
+      "sourceLines": [
+        "// collection",
+        "",
+        "// sci , math , arts",
+        "",
+        "// let vaibhavSciMarks = 85;",
+        "// let vaibhavMathMarks = 90;",
+        "// let vaibhavArtsMarks = 78;",
+        "",
+        "// // array -  indexed datatype - starts from  0 index",
+        "// let vaibhavMarks = [90, 85, 70, ];",
+        "// console.log(vaibhavMarks[0]); // 90",
+        "// console.log(vaibhavMarks[1]); // 85",
+        "// console.log(vaibhavMarks[2]); // 70",
+        "",
+        "// JSON -   object - key value pair datatype",
+        "",
+        "let vaibhavMarksObj = {",
+        "  sci: 85,",
+        "  math: 90,",
+        "  arts: 78,",
+        "  name: \"vaibhav\",",
+        "};",
+        "console.log(vaibhavMarksObj.sci); // 85",
+        "console.log(vaibhavMarksObj.math); // 90",
+        "console.log(vaibhavMarksObj.arts); // 78",
+        "console.log(vaibhavMarksObj.name); // vaibhav",
+        ""
+      ],
+      "codeLines": [
+        {
+          "sourceLine": 17,
+          "text": "let vaibhavMarksObj = {"
+        },
+        {
+          "sourceLine": 18,
+          "text": "  sci: 85,"
+        },
+        {
+          "sourceLine": 19,
+          "text": "  math: 90,"
+        },
+        {
+          "sourceLine": 20,
+          "text": "  arts: 78,"
+        },
+        {
+          "sourceLine": 21,
+          "text": "  name: \"vaibhav\","
+        },
+        {
+          "sourceLine": 22,
+          "text": "};"
+        },
+        {
+          "sourceLine": 23,
+          "text": "console.log(vaibhavMarksObj.sci); // 85"
+        },
+        {
+          "sourceLine": 24,
+          "text": "console.log(vaibhavMarksObj.math); // 90"
+        },
+        {
+          "sourceLine": 25,
+          "text": "console.log(vaibhavMarksObj.arts); // 78"
+        },
+        {
+          "sourceLine": 26,
+          "text": "console.log(vaibhavMarksObj.name); // vaibhav"
+        }
+      ],
+      "executedAt": "2026-08-11T15:12:06.243Z",
+      "complexity": {
+        "time": "O(1)",
+        "space": "O(1)",
+        "maxLoopDepth": 0,
+        "growsCollection": false,
+        "recursive": false
+      }
+    }
+  ],
+  "steps": [
+    {
+      "index": 0,
+      "line": 0,
+      "kind": "start",
+      "label": "Execution started",
+      "vars": {},
+      "consoleLines": [],
+      "fileId": "javascript/collection.js"
+    },
+    {
+      "index": 1,
+      "line": 17,
+      "kind": "var",
+      "label": "vaibhavMarksObj",
+      "vars": {
+        "vaibhavMarksObj": {
+          "sci": 85,
+          "math": 90,
+          "arts": 78,
+          "name": "vaibhav"
+        }
+      },
+      "consoleLines": [],
+      "fileId": "javascript/collection.js"
+    },
+    {
+      "index": 2,
+      "line": 23,
+      "kind": "console",
+      "label": "console.log: 85",
+      "vars": {
+        "vaibhavMarksObj": {
+          "sci": 85,
+          "math": 90,
+          "arts": 78,
+          "name": "vaibhav"
+        }
+      },
+      "consoleLines": [
+        "85"
+      ],
+      "fileId": "javascript/collection.js"
+    },
+    {
+      "index": 3,
+      "line": 24,
+      "kind": "console",
+      "label": "console.log: 90",
+      "vars": {
+        "vaibhavMarksObj": {
+          "sci": 85,
+          "math": 90,
+          "arts": 78,
+          "name": "vaibhav"
+        }
+      },
+      "consoleLines": [
+        "85",
+        "90"
+      ],
+      "fileId": "javascript/collection.js"
+    },
+    {
+      "index": 4,
+      "line": 25,
+      "kind": "console",
+      "label": "console.log: 78",
+      "vars": {
+        "vaibhavMarksObj": {
+          "sci": 85,
+          "math": 90,
+          "arts": 78,
+          "name": "vaibhav"
+        }
+      },
+      "consoleLines": [
+        "85",
+        "90",
+        "78"
+      ],
+      "fileId": "javascript/collection.js"
+    },
+    {
+      "index": 5,
+      "line": 26,
+      "kind": "console",
+      "label": "console.log: vaibhav",
+      "vars": {
+        "vaibhavMarksObj": {
+          "sci": 85,
+          "math": 90,
+          "arts": 78,
+          "name": "vaibhav"
+        }
+      },
+      "consoleLines": [
+        "85",
+        "90",
+        "78",
+        "vaibhav"
+      ],
+      "fileId": "javascript/collection.js"
+    },
+    {
+      "index": 6,
+      "line": 0,
+      "kind": "end",
+      "label": "Execution completed",
+      "vars": {
+        "vaibhavMarksObj": {
+          "sci": 85,
+          "math": 90,
+          "arts": 78,
+          "name": "vaibhav"
+        }
+      },
+      "consoleLines": [
+        "85",
+        "90",
+        "78",
+        "vaibhav"
+      ],
+      "fileId": "javascript/collection.js"
+    }
+  ],
+  "stats": {
+    "totalSteps": 7,
+    "totalIterations": 0,
+    "filesExecuted": 1,
+    "byFile": [
+      {
+        "fileId": "javascript/collection.js",
+        "name": "javascript/collection.js",
+        "steps": 7,
+        "iterations": 0
+      }
+    ]
+  },
+  "updatedAt": "2026-08-11T15:12:06.243Z"
+}

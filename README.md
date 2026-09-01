@@ -1,1 +1,0 @@
-QA & Test Automation Analyst | 5+ Years Experience Core Expertise in Manual + Automation testing . Automated Frameworks (Playwright + JavaScript) Focus: Scalable testing, robust quality assurance, and CI/CD integration.

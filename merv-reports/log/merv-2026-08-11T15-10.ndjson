@@ -1,0 +1,7 @@
+{"ts":"2026-08-11T15:12:06.234Z","level":"INFO","name":"Merv","msg":"<----- File javascript/collection.js ----->"}
+{"ts":"2026-08-11T15:12:06.239Z","level":"INFO","name":"Merv","msg":"--- execution ---"}
+{"ts":"2026-08-11T15:12:06.244Z","level":"INFO","name":"Merv","msg":"vaibhavMarksObj = {\"sci\":85,\"math\":90,\"arts\":78,\"name\":\"vaibhav\"}"}
+{"ts":"2026-08-11T15:12:06.248Z","level":"INFO","name":"Merv","msg":"console.log: 85"}
+{"ts":"2026-08-11T15:12:06.252Z","level":"INFO","name":"Merv","msg":"console.log: 90"}
+{"ts":"2026-08-11T15:12:06.256Z","level":"INFO","name":"Merv","msg":"console.log: 78"}
+{"ts":"2026-08-11T15:12:06.260Z","level":"INFO","name":"Merv","msg":"console.log: vaibhav"}

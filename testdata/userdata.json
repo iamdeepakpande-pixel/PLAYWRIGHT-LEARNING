@@ -1,0 +1,30 @@
+[
+  {
+    "username": "standard_user",
+    "password": "secret_sauce"
+  },
+  {
+    "username": "user2",
+    "password": "password"
+  },
+  {
+    "username": "user3",
+    "password": "password"
+  },
+  {
+    "username": "user4",
+    "password": "password"
+  },
+  {
+    "username": "user5",
+    "password": "password"
+  },
+  {
+    "username": "user6",
+    "password": "password"
+  },
+  {
+    "username": "user7",
+    "password": "password"
+  }
+]
