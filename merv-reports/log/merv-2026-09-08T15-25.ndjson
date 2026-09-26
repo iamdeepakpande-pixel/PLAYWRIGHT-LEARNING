@@ -1,0 +1,45 @@
+{"ts":"2026-09-08T15:27:09.201Z","level":"INFO","name":"Merv","msg":"Suite started — playwright-learning","suite":"playwright-learning"}
+{"ts":"2026-09-08T15:27:11.456Z","level":"INFO","name":"Merv","msg":"Hook: test start — testcase for standard_user"}
+{"ts":"2026-09-08T15:27:11.479Z","level":"INFO","name":"Merv","msg":"Hook: test start — form submission test"}
+{"ts":"2026-09-08T15:27:11.509Z","level":"INFO","name":"Merv","msg":"Hook: test start — verify user able to open context"}
+{"ts":"2026-09-08T15:27:11.532Z","level":"INFO","name":"Merv","msg":"Hook: test end — testcase for standard_user"}
+{"ts":"2026-09-08T15:27:11.543Z","level":"INFO","name":"Merv","msg":"Hook: test end — form submission test"}
+{"ts":"2026-09-08T15:27:11.592Z","level":"INFO","name":"Merv","msg":"Hook: test end — verify user able to open context"}
+{"ts":"2026-09-08T15:27:11.684Z","level":"INFO","name":"Merv","msg":"Hook: test start — Happy Flow"}
+{"ts":"2026-09-08T15:27:11.703Z","level":"ERROR","name":"Merv","msg":"Before Hooks › Fixture \"browser\" › Launch browser","suite":"playwright-learning","testcase":"› chromium › formsubmission.spec.js › form submission test"}
+{"ts":"2026-09-08T15:27:11.714Z","level":"ERROR","name":"Merv","msg":"Before Hooks › Fixture \"browser\" › Launch browser","suite":"playwright-learning","testcase":"› chromium › SDLogin.spec.js › testcase for standard_user"}
+{"ts":"2026-09-08T15:27:11.721Z","level":"INFO","name":"Merv","msg":"Hook: test end — Happy Flow"}
+{"ts":"2026-09-08T15:27:11.728Z","level":"ERROR","name":"Merv","msg":"Before Hooks › Fixture \"browser\" › Launch browser","suite":"playwright-learning","testcase":"› chromium › fixtures.spec.js › verify user able to open context"}
+{"ts":"2026-09-08T15:27:11.871Z","level":"ERROR","name":"Merv","msg":"Before Hooks › Fixture \"browser\" › Launch browser","suite":"playwright-learning","testcase":"› chromium › sd-happy flow.spec.js › Happy Flow"}
+{"ts":"2026-09-08T15:27:12.224Z","level":"ERROR","name":"Merv","msg":"Test finished —  › chromium › formsubmission.spec.js › form submission test (FAILED)","suite":"playwright-learning","testcase":"› chromium › formsubmission.spec.js › form submission test"}
+{"ts":"2026-09-08T15:27:12.251Z","level":"ERROR","name":"Merv","msg":"Test finished —  › chromium › SDLogin.spec.js › testcase for standard_user (FAILED)","suite":"playwright-learning","testcase":"› chromium › SDLogin.spec.js › testcase for standard_user"}
+{"ts":"2026-09-08T15:27:12.281Z","level":"ERROR","name":"Merv","msg":"Test finished —  › chromium › fixtures.spec.js › verify user able to open context (FAILED)","suite":"playwright-learning","testcase":"› chromium › fixtures.spec.js › verify user able to open context"}
+{"ts":"2026-09-08T15:27:12.659Z","level":"ERROR","name":"Merv","msg":"Test finished —  › chromium › sd-happy flow.spec.js › Happy Flow (FAILED)","suite":"playwright-learning","testcase":"› chromium › sd-happy flow.spec.js › Happy Flow"}
+{"ts":"2026-09-08T15:27:15.175Z","level":"INFO","name":"Merv","msg":"Hook: test start — testcase for user3"}
+{"ts":"2026-09-08T15:27:15.187Z","level":"INFO","name":"Merv","msg":"Hook: test start — testcase for user4"}
+{"ts":"2026-09-08T15:27:15.188Z","level":"INFO","name":"Merv","msg":"Hook: test start — testcase for user2"}
+{"ts":"2026-09-08T15:27:15.209Z","level":"INFO","name":"Merv","msg":"Hook: test start — testcase for user5"}
+{"ts":"2026-09-08T15:27:15.228Z","level":"INFO","name":"Merv","msg":"Hook: test end — testcase for user3"}
+{"ts":"2026-09-08T15:27:15.239Z","level":"INFO","name":"Merv","msg":"Hook: test end — testcase for user4"}
+{"ts":"2026-09-08T15:27:15.248Z","level":"INFO","name":"Merv","msg":"Hook: test end — testcase for user2"}
+{"ts":"2026-09-08T15:27:15.259Z","level":"INFO","name":"Merv","msg":"Hook: test end — testcase for user5"}
+{"ts":"2026-09-08T15:27:15.428Z","level":"ERROR","name":"Merv","msg":"Before Hooks › Fixture \"browser\" › Launch browser","suite":"playwright-learning","testcase":"› chromium › SDLogin.spec.js › testcase for user3"}
+{"ts":"2026-09-08T15:27:15.447Z","level":"ERROR","name":"Merv","msg":"Before Hooks › Fixture \"browser\" › Launch browser","suite":"playwright-learning","testcase":"› chromium › SDLogin.spec.js › testcase for user2"}
+{"ts":"2026-09-08T15:27:15.467Z","level":"ERROR","name":"Merv","msg":"Before Hooks › Fixture \"browser\" › Launch browser","suite":"playwright-learning","testcase":"› chromium › SDLogin.spec.js › testcase for user4"}
+{"ts":"2026-09-08T15:27:15.477Z","level":"ERROR","name":"Merv","msg":"Before Hooks › Fixture \"browser\" › Launch browser","suite":"playwright-learning","testcase":"› chromium › SDLogin.spec.js › testcase for user5"}
+{"ts":"2026-09-08T15:27:15.878Z","level":"ERROR","name":"Merv","msg":"Test finished —  › chromium › SDLogin.spec.js › testcase for user3 (FAILED)","suite":"playwright-learning","testcase":"› chromium › SDLogin.spec.js › testcase for user3"}
+{"ts":"2026-09-08T15:27:15.888Z","level":"ERROR","name":"Merv","msg":"Test finished —  › chromium › SDLogin.spec.js › testcase for user2 (FAILED)","suite":"playwright-learning","testcase":"› chromium › SDLogin.spec.js › testcase for user2"}
+{"ts":"2026-09-08T15:27:15.905Z","level":"ERROR","name":"Merv","msg":"Test finished —  › chromium › SDLogin.spec.js › testcase for user4 (FAILED)","suite":"playwright-learning","testcase":"› chromium › SDLogin.spec.js › testcase for user4"}
+{"ts":"2026-09-08T15:27:15.912Z","level":"ERROR","name":"Merv","msg":"Test finished —  › chromium › SDLogin.spec.js › testcase for user5 (FAILED)","suite":"playwright-learning","testcase":"› chromium › SDLogin.spec.js › testcase for user5"}
+{"ts":"2026-09-08T15:27:17.881Z","level":"INFO","name":"Merv","msg":"Hook: test start — testcase for user7"}
+{"ts":"2026-09-08T15:27:17.917Z","level":"INFO","name":"Merv","msg":"Hook: test start — submit form"}
+{"ts":"2026-09-08T15:27:17.940Z","level":"INFO","name":"Merv","msg":"Hook: test end — testcase for user7"}
+{"ts":"2026-09-08T15:27:17.958Z","level":"INFO","name":"Merv","msg":"Hook: test start — testcase for user6"}
+{"ts":"2026-09-08T15:27:17.987Z","level":"INFO","name":"Merv","msg":"Hook: test end — submit form"}
+{"ts":"2026-09-08T15:27:18.010Z","level":"INFO","name":"Merv","msg":"Hook: test end — testcase for user6"}
+{"ts":"2026-09-08T15:27:18.095Z","level":"ERROR","name":"Merv","msg":"Before Hooks › Fixture \"browser\" › Launch browser","suite":"playwright-learning","testcase":"› chromium › SDLogin.spec.js › testcase for user7"}
+{"ts":"2026-09-08T15:27:18.146Z","level":"ERROR","name":"Merv","msg":"Before Hooks › Fixture \"browser\" › Launch browser","suite":"playwright-learning","testcase":"› chromium › submitform.spec.js › submit form"}
+{"ts":"2026-09-08T15:27:18.198Z","level":"ERROR","name":"Merv","msg":"Before Hooks › Fixture \"browser\" › Launch browser","suite":"playwright-learning","testcase":"› chromium › SDLogin.spec.js › testcase for user6"}
+{"ts":"2026-09-08T15:27:18.550Z","level":"ERROR","name":"Merv","msg":"Test finished —  › chromium › SDLogin.spec.js › testcase for user7 (FAILED)","suite":"playwright-learning","testcase":"› chromium › SDLogin.spec.js › testcase for user7"}
+{"ts":"2026-09-08T15:27:18.590Z","level":"ERROR","name":"Merv","msg":"Test finished —  › chromium › submitform.spec.js › submit form (FAILED)","suite":"playwright-learning","testcase":"› chromium › submitform.spec.js › submit form"}
+{"ts":"2026-09-08T15:27:18.620Z","level":"ERROR","name":"Merv","msg":"Test finished —  › chromium › SDLogin.spec.js › testcase for user6 (FAILED)","suite":"playwright-learning","testcase":"› chromium › SDLogin.spec.js › testcase for user6"}

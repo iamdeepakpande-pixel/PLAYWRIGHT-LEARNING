@@ -1,0 +1,333 @@
+{"ts":"2026-09-08T15:30:28.405Z","level":"INFO","name":"Merv","msg":"Suite started — playwright-learning","suite":"playwright-learning"}
+{"ts":"2026-09-08T15:30:30.290Z","level":"INFO","name":"Merv","msg":"Hook: test start — form submission test"}
+{"ts":"2026-09-08T15:30:30.327Z","level":"INFO","name":"Merv","msg":"Hook: test start — Happy Flow"}
+{"ts":"2026-09-08T15:30:30.403Z","level":"INFO","name":"Merv","msg":"Hook: test start — testcase for standard_user"}
+{"ts":"2026-09-08T15:30:30.461Z","level":"INFO","name":"Merv","msg":"Hook: test start — verify user able to open context"}
+{"ts":"2026-09-08T15:30:45.037Z","level":"INFO","name":"Merv","msg":"Before Hooks › Fixture \"browser\" › Launch browser","suite":"playwright-learning","testcase":"› chromium › SDLogin.spec.js › testcase for standard_user"}
+{"ts":"2026-09-08T15:30:45.408Z","level":"INFO","name":"Merv","msg":"Before Hooks › Fixture \"browser\" › Launch browser","suite":"playwright-learning","testcase":"› chromium › sd-happy flow.spec.js › Happy Flow"}
+{"ts":"2026-09-08T15:30:45.510Z","level":"INFO","name":"Merv","msg":"Before Hooks › Fixture \"browser\" › Launch browser","suite":"playwright-learning","testcase":"› chromium › fixtures.spec.js › verify user able to open context"}
+{"ts":"2026-09-08T15:30:45.751Z","level":"INFO","name":"Merv","msg":"Before Hooks › Fixture \"browser\" › Launch browser","suite":"playwright-learning","testcase":"› chromium › formsubmission.spec.js › form submission test"}
+{"ts":"2026-09-08T15:30:45.794Z","level":"INFO","name":"Merv","msg":"Hook: page setup — testcase for standard_user","suite":"playwright-learning","testcase":"SDLogin.spec.js › testcase for standard_user"}
+{"ts":"2026-09-08T15:30:45.889Z","level":"INFO","name":"Merv","msg":"Hook: page setup — form submission test","suite":"playwright-learning","testcase":"formsubmission.spec.js › form submission test"}
+{"ts":"2026-09-08T15:30:45.896Z","level":"INFO","name":"Merv","msg":"Hook: page setup — Happy Flow","suite":"playwright-learning","testcase":"sd-happy flow.spec.js › Happy Flow"}
+{"ts":"2026-09-08T15:30:46.350Z","level":"INFO","name":"Merv","msg":"Before Hooks › Fixture \"context\" › Create context","suite":"playwright-learning","testcase":"› chromium › SDLogin.spec.js › testcase for standard_user"}
+{"ts":"2026-09-08T15:30:46.396Z","level":"INFO","name":"Merv","msg":"Before Hooks › Fixture \"context\" › Create context","suite":"playwright-learning","testcase":"› chromium › sd-happy flow.spec.js › Happy Flow"}
+{"ts":"2026-09-08T15:30:46.450Z","level":"INFO","name":"Merv","msg":"Create context","suite":"playwright-learning","testcase":"› chromium › fixtures.spec.js › verify user able to open context"}
+{"ts":"2026-09-08T15:30:46.484Z","level":"INFO","name":"Merv","msg":"Before Hooks › Fixture \"context\" › Create context","suite":"playwright-learning","testcase":"› chromium › formsubmission.spec.js › form submission test"}
+{"ts":"2026-09-08T15:30:46.711Z","level":"INFO","name":"Merv","msg":"Create page","suite":"playwright-learning","testcase":"› chromium › fixtures.spec.js › verify user able to open context"}
+{"ts":"2026-09-08T15:30:46.994Z","level":"INFO","name":"Merv","msg":"Before Hooks › Fixture \"page\" › Create page","suite":"playwright-learning","testcase":"› chromium › SDLogin.spec.js › testcase for standard_user"}
+{"ts":"2026-09-08T15:30:47.049Z","level":"INFO","name":"Merv","msg":"Before Hooks › Fixture \"page\" › Create page","suite":"playwright-learning","testcase":"› chromium › sd-happy flow.spec.js › Happy Flow"}
+{"ts":"2026-09-08T15:30:47.101Z","level":"INFO","name":"Merv","msg":"Create page","suite":"playwright-learning","testcase":"› chromium › fixtures.spec.js › verify user able to open context"}
+{"ts":"2026-09-08T15:30:47.170Z","level":"INFO","name":"Merv","msg":"Before Hooks › Fixture \"page\" › Create page","suite":"playwright-learning","testcase":"› chromium › formsubmission.spec.js › form submission test"}
+{"ts":"2026-09-08T15:30:49.346Z","level":"INFO","name":"Merv","msg":"Navigate","suite":"playwright-learning","testcase":"› chromium › sd-happy flow.spec.js › Happy Flow"}
+{"ts":"2026-09-08T15:30:49.358Z","level":"INFO","name":"Merv","msg":"Playwright page.goto \"https://www.saucedemo.com/\"","suite":"playwright-learning","testcase":"SDLogin.spec.js › testcase for standard_user"}
+{"ts":"2026-09-08T15:30:49.346Z","level":"INFO","name":"Merv","msg":"Playwright page.goto \"https://www.saucedemo.com/\"","suite":"playwright-learning","testcase":"sd-happy flow.spec.js › Happy Flow"}
+{"ts":"2026-09-08T15:30:49.404Z","level":"INFO","name":"Merv","msg":"Navigate","suite":"playwright-learning","testcase":"› chromium › SDLogin.spec.js › testcase for standard_user"}
+{"ts":"2026-09-08T15:30:49.849Z","level":"INFO","name":"Merv","msg":"Playwright locator.click locator('[data-test=\"username\"]')","suite":"playwright-learning","testcase":"SDLogin.spec.js › testcase for standard_user"}
+{"ts":"2026-09-08T15:30:49.872Z","level":"INFO","name":"Merv","msg":"Click","suite":"playwright-learning","testcase":"› chromium › SDLogin.spec.js › testcase for standard_user"}
+{"ts":"2026-09-08T15:30:49.877Z","level":"INFO","name":"Merv","msg":"Playwright locator.click locator('[data-test=\"username\"]')","suite":"playwright-learning","testcase":"sd-happy flow.spec.js › Happy Flow"}
+{"ts":"2026-09-08T15:30:50.081Z","level":"INFO","name":"Merv","msg":"Click","suite":"playwright-learning","testcase":"› chromium › sd-happy flow.spec.js › Happy Flow"}
+{"ts":"2026-09-08T15:30:50.113Z","level":"INFO","name":"Merv","msg":"Playwright locator.fill locator('[data-test=\"username\"]') → \"standard_user\"","suite":"playwright-learning","testcase":"SDLogin.spec.js › testcase for standard_user"}
+{"ts":"2026-09-08T15:30:50.146Z","level":"INFO","name":"Merv","msg":"Playwright locator.dblclick locator('[data-test=\"login-credentials\"]')","suite":"playwright-learning","testcase":"sd-happy flow.spec.js › Happy Flow"}
+{"ts":"2026-09-08T15:30:50.263Z","level":"INFO","name":"Merv","msg":"Playwright locator.click locator('[data-test=\"password\"]')","suite":"playwright-learning","testcase":"SDLogin.spec.js › testcase for standard_user"}
+{"ts":"2026-09-08T15:30:50.388Z","level":"INFO","name":"Merv","msg":"Playwright locator.click locator('[data-test=\"login-credentials\"]')","suite":"playwright-learning","testcase":"sd-happy flow.spec.js › Happy Flow"}
+{"ts":"2026-09-08T15:30:50.403Z","level":"INFO","name":"Merv","msg":"Playwright locator.fill locator('[data-test=\"password\"]') → \"secret_sauce\"","suite":"playwright-learning","testcase":"SDLogin.spec.js › testcase for standard_user"}
+{"ts":"2026-09-08T15:30:50.462Z","level":"INFO","name":"Merv","msg":"Fill \"standard_user\"","suite":"playwright-learning","testcase":"› chromium › SDLogin.spec.js › testcase for standard_user"}
+{"ts":"2026-09-08T15:30:50.519Z","level":"INFO","name":"Merv","msg":"Playwright locator.click locator('[data-test=\"login-credentials\"]')","suite":"playwright-learning","testcase":"sd-happy flow.spec.js › Happy Flow"}
+{"ts":"2026-09-08T15:30:50.548Z","level":"INFO","name":"Merv","msg":"Double click","suite":"playwright-learning","testcase":"› chromium › sd-happy flow.spec.js › Happy Flow"}
+{"ts":"2026-09-08T15:30:50.674Z","level":"INFO","name":"Merv","msg":"Playwright locator.click locator('[data-test=\"username\"]')","suite":"playwright-learning","testcase":"sd-happy flow.spec.js › Happy Flow"}
+{"ts":"2026-09-08T15:30:50.701Z","level":"INFO","name":"Merv","msg":"Click","suite":"playwright-learning","testcase":"› chromium › SDLogin.spec.js › testcase for standard_user"}
+{"ts":"2026-09-08T15:30:50.823Z","level":"INFO","name":"Merv","msg":"Click","suite":"playwright-learning","testcase":"› chromium › sd-happy flow.spec.js › Happy Flow"}
+{"ts":"2026-09-08T15:30:50.949Z","level":"INFO","name":"Merv","msg":"Playwright locator.click locator('[data-test=\"login-button\"]')","suite":"playwright-learning","testcase":"SDLogin.spec.js › testcase for standard_user"}
+{"ts":"2026-09-08T15:30:50.963Z","level":"INFO","name":"Merv","msg":"Playwright page.goto \"file:///C:/Users/ADMIN/Downloads/automation-practice-master-main/automation-p…\"","suite":"playwright-learning","testcase":"formsubmission.spec.js › form submission test"}
+{"ts":"2026-09-08T15:30:50.970Z","level":"INFO","name":"Merv","msg":"Playwright locator.click locator('[data-test=\"username\"]')","suite":"playwright-learning","testcase":"sd-happy flow.spec.js › Happy Flow"}
+{"ts":"2026-09-08T15:30:51.067Z","level":"INFO","name":"Merv","msg":"Playwright expect.toHaveURL (passed)","suite":"playwright-learning","testcase":"SDLogin.spec.js › testcase for standard_user"}
+{"ts":"2026-09-08T15:30:51.113Z","level":"INFO","name":"Merv","msg":"Navigate","suite":"playwright-learning","testcase":"› chromium › formsubmission.spec.js › form submission test"}
+{"ts":"2026-09-08T15:30:51.174Z","level":"INFO","name":"Merv","msg":"Playwright locator.click locator('[data-test=\"username\"]')","suite":"playwright-learning","testcase":"sd-happy flow.spec.js › Happy Flow"}
+{"ts":"2026-09-08T15:30:51.281Z","level":"INFO","name":"Merv","msg":"Playwright locator.click locator('[data-test=\"username\"]')","suite":"playwright-learning","testcase":"sd-happy flow.spec.js › Happy Flow"}
+{"ts":"2026-09-08T15:30:51.353Z","level":"INFO","name":"Merv","msg":"Playwright locator.fill locator('[data-test=\"username\"]') → \"standard_user\"","suite":"playwright-learning","testcase":"sd-happy flow.spec.js › Happy Flow"}
+{"ts":"2026-09-08T15:30:51.413Z","level":"INFO","name":"Merv","msg":"Hook: page teardown — testcase for standard_user","suite":"playwright-learning","testcase":"SDLogin.spec.js › testcase for standard_user"}
+{"ts":"2026-09-08T15:30:51.413Z","level":"INFO","name":"Merv","msg":"Fill \"secret_sauce\"","suite":"playwright-learning","testcase":"› chromium › SDLogin.spec.js › testcase for standard_user"}
+{"ts":"2026-09-08T15:30:51.491Z","level":"INFO","name":"Merv","msg":"Navigate","suite":"playwright-learning","testcase":"› chromium › fixtures.spec.js › verify user able to open context"}
+{"ts":"2026-09-08T15:30:51.500Z","level":"INFO","name":"Merv","msg":"Playwright locator.click locator('[data-test=\"password\"]')","suite":"playwright-learning","testcase":"sd-happy flow.spec.js › Happy Flow"}
+{"ts":"2026-09-08T15:30:51.562Z","level":"INFO","name":"Merv","msg":"Playwright locator.click getByText('Form Submission')","suite":"playwright-learning","testcase":"formsubmission.spec.js › form submission test"}
+{"ts":"2026-09-08T15:30:51.662Z","level":"INFO","name":"Merv","msg":"Playwright locator.fill locator('[data-test=\"password\"]') → \"secret_sauce\"","suite":"playwright-learning","testcase":"sd-happy flow.spec.js › Happy Flow"}
+{"ts":"2026-09-08T15:30:51.719Z","level":"INFO","name":"Merv","msg":"Click","suite":"playwright-learning","testcase":"› chromium › sd-happy flow.spec.js › Happy Flow"}
+{"ts":"2026-09-08T15:30:51.788Z","level":"INFO","name":"Merv","msg":"Playwright expect.toHaveTitle (passed)","suite":"playwright-learning","testcase":"formsubmission.spec.js › form submission test"}
+{"ts":"2026-09-08T15:30:51.882Z","level":"INFO","name":"Merv","msg":"Playwright locator.fill getByLabel('Full Name *') → \"Deepak Pande\"","suite":"playwright-learning","testcase":"formsubmission.spec.js › form submission test"}
+{"ts":"2026-09-08T15:30:52.061Z","level":"INFO","name":"Merv","msg":"Click","suite":"playwright-learning","testcase":"› chromium › formsubmission.spec.js › form submission test"}
+{"ts":"2026-09-08T15:30:52.161Z","level":"INFO","name":"Merv","msg":"Playwright locator.click locator('[data-test=\"login-button\"]')","suite":"playwright-learning","testcase":"sd-happy flow.spec.js › Happy Flow"}
+{"ts":"2026-09-08T15:30:52.278Z","level":"INFO","name":"Merv","msg":"Playwright locator.fill getByLabel('Email Address *') → \"DSPANDE@GMAIL.COM\"","suite":"playwright-learning","testcase":"formsubmission.spec.js › form submission test"}
+{"ts":"2026-09-08T15:30:52.337Z","level":"INFO","name":"Merv","msg":"Playwright expect.toBeVisible (passed)","suite":"playwright-learning","testcase":"sd-happy flow.spec.js › Happy Flow"}
+{"ts":"2026-09-08T15:30:52.368Z","level":"INFO","name":"Merv","msg":"Playwright locator.fill getByLabel('Password *') → \"DSP@123\"","suite":"playwright-learning","testcase":"formsubmission.spec.js › form submission test"}
+{"ts":"2026-09-08T15:30:52.421Z","level":"INFO","name":"Merv","msg":"Navigate","suite":"playwright-learning","testcase":"› chromium › fixtures.spec.js › verify user able to open context"}
+{"ts":"2026-09-08T15:30:52.464Z","level":"INFO","name":"Merv","msg":"Playwright locator.click locator('[data-test=\"add-to-cart-sauce-labs-backpack\"]')","suite":"playwright-learning","testcase":"sd-happy flow.spec.js › Happy Flow"}
+{"ts":"2026-09-08T15:30:52.525Z","level":"INFO","name":"Merv","msg":"Playwright locator.fill getByLabel('Phone Number') → \"9876543210\"","suite":"playwright-learning","testcase":"formsubmission.spec.js › form submission test"}
+{"ts":"2026-09-08T15:30:52.551Z","level":"INFO","name":"Merv","msg":"Playwright expect.toBeVisible (passed)","suite":"playwright-learning","testcase":"sd-happy flow.spec.js › Happy Flow"}
+{"ts":"2026-09-08T15:30:52.710Z","level":"INFO","name":"Merv","msg":"Playwright locator.click locator('[data-test=\"add-to-cart-sauce-labs-bike-light\"]')","suite":"playwright-learning","testcase":"sd-happy flow.spec.js › Happy Flow"}
+{"ts":"2026-09-08T15:30:52.800Z","level":"INFO","name":"Merv","msg":"Click","suite":"playwright-learning","testcase":"› chromium › SDLogin.spec.js › testcase for standard_user"}
+{"ts":"2026-09-08T15:30:52.899Z","level":"INFO","name":"Merv","msg":"Hook: test end — testcase for standard_user","suite":"playwright-learning","testcase":"SDLogin.spec.js › testcase for standard_user"}
+{"ts":"2026-09-08T15:30:52.899Z","level":"INFO","name":"Merv","msg":"Playwright locator.fill getByPlaceholder('Enter your age') → \"25\"","suite":"playwright-learning","testcase":"formsubmission.spec.js › form submission test"}
+{"ts":"2026-09-08T15:30:52.971Z","level":"INFO","name":"Merv","msg":"Playwright locator.click locator('[data-test=\"add-to-cart-sauce-labs-bolt-t-shirt\"]')","suite":"playwright-learning","testcase":"sd-happy flow.spec.js › Happy Flow"}
+{"ts":"2026-09-08T15:30:53.111Z","level":"INFO","name":"Merv","msg":"Playwright locator.selectOption getByLabel('Country')","suite":"playwright-learning","testcase":"formsubmission.spec.js › form submission test"}
+{"ts":"2026-09-08T15:30:53.109Z","level":"INFO","name":"Merv","msg":"Click","suite":"playwright-learning","testcase":"› chromium › sd-happy flow.spec.js › Happy Flow"}
+{"ts":"2026-09-08T15:30:53.131Z","level":"INFO","name":"Merv","msg":"Playwright locator.click locator('[data-test=\"add-to-cart-sauce-labs-fleece-jacket\"]')","suite":"playwright-learning","testcase":"sd-happy flow.spec.js › Happy Flow"}
+{"ts":"2026-09-08T15:30:53.185Z","level":"INFO","name":"Merv","msg":"Playwright locator.fill getByLabel('Bio / About Me') → \"I am a software tester\"","suite":"playwright-learning","testcase":"formsubmission.spec.js › form submission test"}
+{"ts":"2026-09-08T15:30:53.369Z","level":"INFO","name":"Merv","msg":"Playwright locator.click locator('[data-test=\"add-to-cart-sauce-labs-onesie\"]')","suite":"playwright-learning","testcase":"sd-happy flow.spec.js › Happy Flow"}
+{"ts":"2026-09-08T15:30:53.442Z","level":"INFO","name":"Merv","msg":"Create context","suite":"playwright-learning","testcase":"› chromium › fixtures.spec.js › verify user able to open context"}
+{"ts":"2026-09-08T15:30:53.510Z","level":"INFO","name":"Merv","msg":"Playwright locator.click locator('[data-test=\"add-to-cart-test.allthethings()-t-shirt-(red)\"]')","suite":"playwright-learning","testcase":"sd-happy flow.spec.js › Happy Flow"}
+{"ts":"2026-09-08T15:30:53.512Z","level":"INFO","name":"Merv","msg":"Expect \"toHaveTitle\"","suite":"playwright-learning","testcase":"› chromium › formsubmission.spec.js › form submission test"}
+{"ts":"2026-09-08T15:30:53.618Z","level":"INFO","name":"Merv","msg":"Playwright locator.click locator('[data-test=\"shopping-cart-link\"]')","suite":"playwright-learning","testcase":"sd-happy flow.spec.js › Happy Flow"}
+{"ts":"2026-09-08T15:30:53.666Z","level":"INFO","name":"Merv","msg":"Playwright expect.toBeVisible (passed)","suite":"playwright-learning","testcase":"sd-happy flow.spec.js › Happy Flow"}
+{"ts":"2026-09-08T15:30:53.711Z","level":"INFO","name":"Merv","msg":"Expect \"toHaveURL\"","suite":"playwright-learning","testcase":"› chromium › SDLogin.spec.js › testcase for standard_user"}
+{"ts":"2026-09-08T15:30:53.776Z","level":"INFO","name":"Merv","msg":"Playwright locator.click locator('[data-test=\"checkout\"]')","suite":"playwright-learning","testcase":"sd-happy flow.spec.js › Happy Flow"}
+{"ts":"2026-09-08T15:30:53.801Z","level":"INFO","name":"Merv","msg":"Create page","suite":"playwright-learning","testcase":"› chromium › fixtures.spec.js › verify user able to open context"}
+{"ts":"2026-09-08T15:30:53.813Z","level":"INFO","name":"Merv","msg":"Playwright expect.toBeVisible (passed)","suite":"playwright-learning","testcase":"sd-happy flow.spec.js › Happy Flow"}
+{"ts":"2026-09-08T15:30:53.918Z","level":"INFO","name":"Merv","msg":"Playwright locator.click locator('[data-test=\"firstName\"]')","suite":"playwright-learning","testcase":"sd-happy flow.spec.js › Happy Flow"}
+{"ts":"2026-09-08T15:30:53.979Z","level":"INFO","name":"Merv","msg":"Click","suite":"playwright-learning","testcase":"› chromium › sd-happy flow.spec.js › Happy Flow"}
+{"ts":"2026-09-08T15:30:54.018Z","level":"INFO","name":"Merv","msg":"Playwright locator.fill locator('[data-test=\"firstName\"]') → \"john\"","suite":"playwright-learning","testcase":"sd-happy flow.spec.js › Happy Flow"}
+{"ts":"2026-09-08T15:30:54.129Z","level":"INFO","name":"Merv","msg":"Playwright locator.click locator('[data-test=\"lastName\"]')","suite":"playwright-learning","testcase":"sd-happy flow.spec.js › Happy Flow"}
+{"ts":"2026-09-08T15:30:54.220Z","level":"INFO","name":"Merv","msg":"Playwright locator.fill locator('[data-test=\"lastName\"]') → \"doe\"","suite":"playwright-learning","testcase":"sd-happy flow.spec.js › Happy Flow"}
+{"ts":"2026-09-08T15:30:54.332Z","level":"INFO","name":"Merv","msg":"Fill \"Deepak Pande\"","suite":"playwright-learning","testcase":"› chromium › formsubmission.spec.js › form submission test"}
+{"ts":"2026-09-08T15:30:54.437Z","level":"INFO","name":"Merv","msg":"Playwright locator.click locator('[data-test=\"postalCode\"]')","suite":"playwright-learning","testcase":"sd-happy flow.spec.js › Happy Flow"}
+{"ts":"2026-09-08T15:30:54.526Z","level":"INFO","name":"Merv","msg":"Playwright locator.fill locator('[data-test=\"postalCode\"]') → \"413251\"","suite":"playwright-learning","testcase":"sd-happy flow.spec.js › Happy Flow"}
+{"ts":"2026-09-08T15:30:54.564Z","level":"INFO","name":"Merv","msg":"Create page","suite":"playwright-learning","testcase":"› chromium › fixtures.spec.js › verify user able to open context"}
+{"ts":"2026-09-08T15:30:54.666Z","level":"INFO","name":"Merv","msg":"Playwright locator.click locator('[data-test=\"continue\"]')","suite":"playwright-learning","testcase":"sd-happy flow.spec.js › Happy Flow"}
+{"ts":"2026-09-08T15:30:54.702Z","level":"INFO","name":"Merv","msg":"Playwright expect.toBeVisible (passed)","suite":"playwright-learning","testcase":"sd-happy flow.spec.js › Happy Flow"}
+{"ts":"2026-09-08T15:30:54.738Z","level":"INFO","name":"Merv","msg":"Click","suite":"playwright-learning","testcase":"› chromium › sd-happy flow.spec.js › Happy Flow"}
+{"ts":"2026-09-08T15:30:54.886Z","level":"INFO","name":"Merv","msg":"Playwright locator.click locator('[data-test=\"finish\"]')","suite":"playwright-learning","testcase":"sd-happy flow.spec.js › Happy Flow"}
+{"ts":"2026-09-08T15:30:55.010Z","level":"INFO","name":"Merv","msg":"Fill \"DSPANDE@GMAIL.COM\"","suite":"playwright-learning","testcase":"› chromium › formsubmission.spec.js › form submission test"}
+{"ts":"2026-09-08T15:30:55.117Z","level":"INFO","name":"Merv","msg":"Hook: page teardown — Happy Flow","suite":"playwright-learning","testcase":"sd-happy flow.spec.js › Happy Flow"}
+{"ts":"2026-09-08T15:30:55.239Z","level":"INFO","name":"Merv","msg":"Click","suite":"playwright-learning","testcase":"› chromium › sd-happy flow.spec.js › Happy Flow"}
+{"ts":"2026-09-08T15:30:55.499Z","level":"INFO","name":"Merv","msg":"Fill \"DSP@123\"","suite":"playwright-learning","testcase":"› chromium › formsubmission.spec.js › form submission test"}
+{"ts":"2026-09-08T15:30:55.738Z","level":"INFO","name":"Merv","msg":"Fill \"standard_user\"","suite":"playwright-learning","testcase":"› chromium › sd-happy flow.spec.js › Happy Flow"}
+{"ts":"2026-09-08T15:30:55.797Z","level":"INFO","name":"Merv","msg":"Hook: test end — Happy Flow","suite":"playwright-learning","testcase":"sd-happy flow.spec.js › Happy Flow"}
+{"ts":"2026-09-08T15:30:55.801Z","level":"INFO","name":"Merv","msg":"Fill \"9876543210\"","suite":"playwright-learning","testcase":"› chromium › formsubmission.spec.js › form submission test"}
+{"ts":"2026-09-08T15:30:55.908Z","level":"INFO","name":"Merv","msg":"After Hooks › Fixture \"context\" › Close context","suite":"playwright-learning","testcase":"› chromium › SDLogin.spec.js › testcase for standard_user"}
+{"ts":"2026-09-08T15:30:56.076Z","level":"INFO","name":"Merv","msg":"Click","suite":"playwright-learning","testcase":"› chromium › sd-happy flow.spec.js › Happy Flow"}
+{"ts":"2026-09-08T15:30:56.122Z","level":"INFO","name":"Merv","msg":"Fill \"25\"","suite":"playwright-learning","testcase":"› chromium › formsubmission.spec.js › form submission test"}
+{"ts":"2026-09-08T15:30:56.241Z","level":"INFO","name":"Merv","msg":"Fill \"secret_sauce\"","suite":"playwright-learning","testcase":"› chromium › sd-happy flow.spec.js › Happy Flow"}
+{"ts":"2026-09-08T15:30:56.320Z","level":"INFO","name":"Merv","msg":"Select option","suite":"playwright-learning","testcase":"› chromium › formsubmission.spec.js › form submission test"}
+{"ts":"2026-09-08T15:30:56.491Z","level":"INFO","name":"Merv","msg":"Navigate","suite":"playwright-learning","testcase":"› chromium › fixtures.spec.js › verify user able to open context"}
+{"ts":"2026-09-08T15:30:56.804Z","level":"INFO","name":"Merv","msg":"Test finished —  › chromium › SDLogin.spec.js › testcase for standard_user (PASSED)","suite":"playwright-learning","testcase":"› chromium › SDLogin.spec.js › testcase for standard_user"}
+{"ts":"2026-09-08T15:30:56.884Z","level":"INFO","name":"Merv","msg":"Click","suite":"playwright-learning","testcase":"› chromium › sd-happy flow.spec.js › Happy Flow"}
+{"ts":"2026-09-08T15:30:56.971Z","level":"INFO","name":"Merv","msg":"Fill \"I am a software tester\"","suite":"playwright-learning","testcase":"› chromium › formsubmission.spec.js › form submission test"}
+{"ts":"2026-09-08T15:30:57.108Z","level":"INFO","name":"Merv","msg":"Hook: test start — testcase for user2","suite":"playwright-learning"}
+{"ts":"2026-09-08T15:30:57.380Z","level":"INFO","name":"Merv","msg":"Expect \"toBeVisible\"","suite":"playwright-learning","testcase":"› chromium › sd-happy flow.spec.js › Happy Flow"}
+{"ts":"2026-09-08T15:30:57.620Z","level":"INFO","name":"Merv","msg":"Hook: page setup — testcase for user2","suite":"playwright-learning","testcase":"SDLogin.spec.js › testcase for user2"}
+{"ts":"2026-09-08T15:30:57.664Z","level":"INFO","name":"Merv","msg":"Click","suite":"playwright-learning","testcase":"› chromium › sd-happy flow.spec.js › Happy Flow"}
+{"ts":"2026-09-08T15:30:58.161Z","level":"INFO","name":"Merv","msg":"Playwright page.goto \"https://www.saucedemo.com/\"","suite":"playwright-learning","testcase":"SDLogin.spec.js › testcase for user2"}
+{"ts":"2026-09-08T15:30:58.160Z","level":"INFO","name":"Merv","msg":"Expect \"toBeVisible\"","suite":"playwright-learning","testcase":"› chromium › sd-happy flow.spec.js › Happy Flow"}
+{"ts":"2026-09-08T15:30:58.539Z","level":"INFO","name":"Merv","msg":"Before Hooks › Fixture \"context\" › Create context","suite":"playwright-learning","testcase":"› chromium › SDLogin.spec.js › testcase for user2"}
+{"ts":"2026-09-08T15:30:58.790Z","level":"INFO","name":"Merv","msg":"Playwright locator.click locator('[data-test=\"username\"]')","suite":"playwright-learning","testcase":"SDLogin.spec.js › testcase for user2"}
+{"ts":"2026-09-08T15:30:59.264Z","level":"INFO","name":"Merv","msg":"Playwright locator.fill locator('[data-test=\"username\"]') → \"user2\"","suite":"playwright-learning","testcase":"SDLogin.spec.js › testcase for user2"}
+{"ts":"2026-09-08T15:30:59.511Z","level":"INFO","name":"Merv","msg":"Playwright locator.click locator('[data-test=\"password\"]')","suite":"playwright-learning","testcase":"SDLogin.spec.js › testcase for user2"}
+{"ts":"2026-09-08T15:30:59.638Z","level":"INFO","name":"Merv","msg":"Playwright locator.fill locator('[data-test=\"password\"]') → \"password\"","suite":"playwright-learning","testcase":"SDLogin.spec.js › testcase for user2"}
+{"ts":"2026-09-08T15:30:59.666Z","level":"INFO","name":"Merv","msg":"Click","suite":"playwright-learning","testcase":"› chromium › sd-happy flow.spec.js › Happy Flow"}
+{"ts":"2026-09-08T15:30:59.770Z","level":"INFO","name":"Merv","msg":"Playwright locator.click locator('[data-test=\"login-button\"]')","suite":"playwright-learning","testcase":"SDLogin.spec.js › testcase for user2"}
+{"ts":"2026-09-08T15:30:59.930Z","level":"INFO","name":"Merv","msg":"Before Hooks › Fixture \"page\" › Create page","suite":"playwright-learning","testcase":"› chromium › SDLogin.spec.js › testcase for user2"}
+{"ts":"2026-09-08T15:31:00.130Z","level":"INFO","name":"Merv","msg":"Click","suite":"playwright-learning","testcase":"› chromium › sd-happy flow.spec.js › Happy Flow"}
+{"ts":"2026-09-08T15:31:00.303Z","level":"INFO","name":"Merv","msg":"Click","suite":"playwright-learning","testcase":"› chromium › sd-happy flow.spec.js › Happy Flow"}
+{"ts":"2026-09-08T15:31:00.432Z","level":"INFO","name":"Merv","msg":"Navigate","suite":"playwright-learning","testcase":"› chromium › SDLogin.spec.js › testcase for user2"}
+{"ts":"2026-09-08T15:31:00.474Z","level":"INFO","name":"Merv","msg":"Click","suite":"playwright-learning","testcase":"› chromium › sd-happy flow.spec.js › Happy Flow"}
+{"ts":"2026-09-08T15:31:00.612Z","level":"INFO","name":"Merv","msg":"Click","suite":"playwright-learning","testcase":"› chromium › SDLogin.spec.js › testcase for user2"}
+{"ts":"2026-09-08T15:31:00.670Z","level":"INFO","name":"Merv","msg":"Click","suite":"playwright-learning","testcase":"› chromium › sd-happy flow.spec.js › Happy Flow"}
+{"ts":"2026-09-08T15:31:00.813Z","level":"INFO","name":"Merv","msg":"Fill \"user2\"","suite":"playwright-learning","testcase":"› chromium › SDLogin.spec.js › testcase for user2"}
+{"ts":"2026-09-08T15:31:00.858Z","level":"INFO","name":"Merv","msg":"Click","suite":"playwright-learning","testcase":"› chromium › sd-happy flow.spec.js › Happy Flow"}
+{"ts":"2026-09-08T15:31:00.935Z","level":"INFO","name":"Merv","msg":"Click","suite":"playwright-learning","testcase":"› chromium › SDLogin.spec.js › testcase for user2"}
+{"ts":"2026-09-08T15:31:00.964Z","level":"INFO","name":"Merv","msg":"Expect \"toBeVisible\"","suite":"playwright-learning","testcase":"› chromium › sd-happy flow.spec.js › Happy Flow"}
+{"ts":"2026-09-08T15:31:01.050Z","level":"INFO","name":"Merv","msg":"Fill \"password\"","suite":"playwright-learning","testcase":"› chromium › SDLogin.spec.js › testcase for user2"}
+{"ts":"2026-09-08T15:31:01.088Z","level":"INFO","name":"Merv","msg":"Click","suite":"playwright-learning","testcase":"› chromium › sd-happy flow.spec.js › Happy Flow"}
+{"ts":"2026-09-08T15:31:01.246Z","level":"INFO","name":"Merv","msg":"Click","suite":"playwright-learning","testcase":"› chromium › SDLogin.spec.js › testcase for user2"}
+{"ts":"2026-09-08T15:31:01.293Z","level":"INFO","name":"Merv","msg":"Navigate","suite":"playwright-learning","testcase":"› chromium › fixtures.spec.js › verify user able to open context"}
+{"ts":"2026-09-08T15:31:01.327Z","level":"INFO","name":"Merv","msg":"Expect \"toBeVisible\"","suite":"playwright-learning","testcase":"› chromium › sd-happy flow.spec.js › Happy Flow"}
+{"ts":"2026-09-08T15:31:01.431Z","level":"INFO","name":"Merv","msg":"Click","suite":"playwright-learning","testcase":"› chromium › sd-happy flow.spec.js › Happy Flow"}
+{"ts":"2026-09-08T15:31:01.480Z","level":"INFO","name":"Merv","msg":"Fill \"john\"","suite":"playwright-learning","testcase":"› chromium › sd-happy flow.spec.js › Happy Flow"}
+{"ts":"2026-09-08T15:31:01.562Z","level":"INFO","name":"Merv","msg":"Click","suite":"playwright-learning","testcase":"› chromium › sd-happy flow.spec.js › Happy Flow"}
+{"ts":"2026-09-08T15:31:01.611Z","level":"INFO","name":"Merv","msg":"Fill \"doe\"","suite":"playwright-learning","testcase":"› chromium › sd-happy flow.spec.js › Happy Flow"}
+{"ts":"2026-09-08T15:31:01.652Z","level":"INFO","name":"Merv","msg":"Click","suite":"playwright-learning","testcase":"› chromium › sd-happy flow.spec.js › Happy Flow"}
+{"ts":"2026-09-08T15:31:01.682Z","level":"INFO","name":"Merv","msg":"Fill \"413251\"","suite":"playwright-learning","testcase":"› chromium › sd-happy flow.spec.js › Happy Flow"}
+{"ts":"2026-09-08T15:31:01.758Z","level":"INFO","name":"Merv","msg":"Click","suite":"playwright-learning","testcase":"› chromium › sd-happy flow.spec.js › Happy Flow"}
+{"ts":"2026-09-08T15:31:01.791Z","level":"INFO","name":"Merv","msg":"Expect \"toBeVisible\"","suite":"playwright-learning","testcase":"› chromium › sd-happy flow.spec.js › Happy Flow"}
+{"ts":"2026-09-08T15:31:01.821Z","level":"INFO","name":"Merv","msg":"Click","suite":"playwright-learning","testcase":"› chromium › sd-happy flow.spec.js › Happy Flow"}
+{"ts":"2026-09-08T15:31:01.939Z","level":"INFO","name":"Merv","msg":"After Hooks › Fixture \"context\" › Close context","suite":"playwright-learning","testcase":"› chromium › sd-happy flow.spec.js › Happy Flow"}
+{"ts":"2026-09-08T15:31:02.071Z","level":"INFO","name":"Merv","msg":"Test finished —  › chromium › sd-happy flow.spec.js › Happy Flow (PASSED)","suite":"playwright-learning","testcase":"› chromium › sd-happy flow.spec.js › Happy Flow"}
+{"ts":"2026-09-08T15:31:02.169Z","level":"INFO","name":"Merv","msg":"Hook: test start — testcase for user3","suite":"playwright-learning"}
+{"ts":"2026-09-08T15:31:02.289Z","level":"INFO","name":"Merv","msg":"Before Hooks › Fixture \"context\" › Create context","suite":"playwright-learning","testcase":"› chromium › SDLogin.spec.js › testcase for user3"}
+{"ts":"2026-09-08T15:31:02.638Z","level":"INFO","name":"Merv","msg":"Hook: page setup — testcase for user3","suite":"playwright-learning","testcase":"SDLogin.spec.js › testcase for user3"}
+{"ts":"2026-09-08T15:31:02.650Z","level":"INFO","name":"Merv","msg":"Before Hooks › Fixture \"page\" › Create page","suite":"playwright-learning","testcase":"› chromium › SDLogin.spec.js › testcase for user3"}
+{"ts":"2026-09-08T15:31:03.190Z","level":"INFO","name":"Merv","msg":"Navigate","suite":"playwright-learning","testcase":"› chromium › SDLogin.spec.js › testcase for user3"}
+{"ts":"2026-09-08T15:31:03.192Z","level":"INFO","name":"Merv","msg":"Playwright page.goto \"https://www.saucedemo.com/\"","suite":"playwright-learning","testcase":"SDLogin.spec.js › testcase for user3"}
+{"ts":"2026-09-08T15:31:03.268Z","level":"INFO","name":"Merv","msg":"Wait for timeout","suite":"playwright-learning","testcase":"› chromium › formsubmission.spec.js › form submission test"}
+{"ts":"2026-09-08T15:31:03.353Z","level":"INFO","name":"Merv","msg":"Wait for timeout","suite":"playwright-learning","testcase":"› chromium › fixtures.spec.js › verify user able to open context"}
+{"ts":"2026-09-08T15:31:03.440Z","level":"INFO","name":"Merv","msg":"Playwright locator.click locator('[data-test=\"username\"]')","suite":"playwright-learning","testcase":"SDLogin.spec.js › testcase for user3"}
+{"ts":"2026-09-08T15:31:03.508Z","level":"INFO","name":"Merv","msg":"Playwright locator.click getByRole('button', { name: 'Submit' })","suite":"playwright-learning","testcase":"formsubmission.spec.js › form submission test"}
+{"ts":"2026-09-08T15:31:03.641Z","level":"INFO","name":"Merv","msg":"Playwright locator.fill locator('[data-test=\"username\"]') → \"user3\"","suite":"playwright-learning","testcase":"SDLogin.spec.js › testcase for user3"}
+{"ts":"2026-09-08T15:31:03.710Z","level":"INFO","name":"Merv","msg":"Playwright expect.toBeVisible (passed)","suite":"playwright-learning","testcase":"formsubmission.spec.js › form submission test"}
+{"ts":"2026-09-08T15:31:03.742Z","level":"INFO","name":"Merv","msg":"Click","suite":"playwright-learning","testcase":"› chromium › formsubmission.spec.js › form submission test"}
+{"ts":"2026-09-08T15:31:03.773Z","level":"INFO","name":"Merv","msg":"Playwright locator.click locator('[data-test=\"password\"]')","suite":"playwright-learning","testcase":"SDLogin.spec.js › testcase for user3"}
+{"ts":"2026-09-08T15:31:03.834Z","level":"INFO","name":"Merv","msg":"Click","suite":"playwright-learning","testcase":"› chromium › SDLogin.spec.js › testcase for user3"}
+{"ts":"2026-09-08T15:31:03.863Z","level":"INFO","name":"Merv","msg":"Playwright locator.fill locator('[data-test=\"password\"]') → \"password\"","suite":"playwright-learning","testcase":"SDLogin.spec.js › testcase for user3"}
+{"ts":"2026-09-08T15:31:03.996Z","level":"INFO","name":"Merv","msg":"Expect \"toBeVisible\"","suite":"playwright-learning","testcase":"› chromium › formsubmission.spec.js › form submission test"}
+{"ts":"2026-09-08T15:31:04.001Z","level":"INFO","name":"Merv","msg":"Playwright locator.click locator('[data-test=\"login-button\"]')","suite":"playwright-learning","testcase":"SDLogin.spec.js › testcase for user3"}
+{"ts":"2026-09-08T15:31:04.041Z","level":"INFO","name":"Merv","msg":"Fill \"user3\"","suite":"playwright-learning","testcase":"› chromium › SDLogin.spec.js › testcase for user3"}
+{"ts":"2026-09-08T15:31:04.107Z","level":"INFO","name":"Merv","msg":"Click","suite":"playwright-learning","testcase":"› chromium › SDLogin.spec.js › testcase for user3"}
+{"ts":"2026-09-08T15:31:04.150Z","level":"INFO","name":"Merv","msg":"Fill \"password\"","suite":"playwright-learning","testcase":"› chromium › SDLogin.spec.js › testcase for user3"}
+{"ts":"2026-09-08T15:31:04.189Z","level":"INFO","name":"Merv","msg":"Click","suite":"playwright-learning","testcase":"› chromium › SDLogin.spec.js › testcase for user3"}
+{"ts":"2026-09-08T15:31:04.829Z","level":"INFO","name":"Merv","msg":"Playwright expect.toHaveURL (failed)","suite":"playwright-learning","testcase":"SDLogin.spec.js › testcase for user2"}
+{"ts":"2026-09-08T15:31:04.839Z","level":"ERROR","name":"Merv","msg":"Expect \"toHaveURL\"","suite":"playwright-learning","testcase":"› chromium › SDLogin.spec.js › testcase for user2"}
+{"ts":"2026-09-08T15:31:04.927Z","level":"INFO","name":"Merv","msg":"Hook: page teardown — testcase for user2","suite":"playwright-learning","testcase":"SDLogin.spec.js › testcase for user2"}
+{"ts":"2026-09-08T15:31:05.270Z","level":"INFO","name":"Merv","msg":"Wait for timeout","suite":"playwright-learning","testcase":"› chromium › fixtures.spec.js › verify user able to open context"}
+{"ts":"2026-09-08T15:31:06.424Z","level":"INFO","name":"Merv","msg":"After Hooks › Fixture \"context\" › Close context","suite":"playwright-learning","testcase":"› chromium › SDLogin.spec.js › testcase for user2"}
+{"ts":"2026-09-08T15:31:06.429Z","level":"INFO","name":"Merv","msg":"Hook: test end — testcase for user2","suite":"playwright-learning","testcase":"SDLogin.spec.js › testcase for user2"}
+{"ts":"2026-09-08T15:31:06.703Z","level":"ERROR","name":"Merv","msg":"Test finished —  › chromium › SDLogin.spec.js › testcase for user2 (FAILED)","suite":"playwright-learning","testcase":"› chromium › SDLogin.spec.js › testcase for user2"}
+{"ts":"2026-09-08T15:31:07.291Z","level":"INFO","name":"Merv","msg":"Wait for timeout","suite":"playwright-learning","testcase":"› chromium › fixtures.spec.js › verify user able to open context"}
+{"ts":"2026-09-08T15:31:08.672Z","level":"INFO","name":"Merv","msg":"Hook: test start — testcase for user4"}
+{"ts":"2026-09-08T15:31:08.893Z","level":"INFO","name":"Merv","msg":"Before Hooks › Fixture \"browser\" › Launch browser","suite":"playwright-learning","testcase":"› chromium › SDLogin.spec.js › testcase for user4"}
+{"ts":"2026-09-08T15:31:09.080Z","level":"INFO","name":"Merv","msg":"Before Hooks › Fixture \"context\" › Create context","suite":"playwright-learning","testcase":"› chromium › SDLogin.spec.js › testcase for user4"}
+{"ts":"2026-09-08T15:31:09.089Z","level":"INFO","name":"Merv","msg":"Playwright expect.toHaveURL (failed)","suite":"playwright-learning","testcase":"SDLogin.spec.js › testcase for user3"}
+{"ts":"2026-09-08T15:31:09.128Z","level":"ERROR","name":"Merv","msg":"Expect \"toHaveURL\"","suite":"playwright-learning","testcase":"› chromium › SDLogin.spec.js › testcase for user3"}
+{"ts":"2026-09-08T15:31:09.220Z","level":"INFO","name":"Merv","msg":"Hook: page teardown — testcase for user3","suite":"playwright-learning","testcase":"SDLogin.spec.js › testcase for user3"}
+{"ts":"2026-09-08T15:31:09.231Z","level":"INFO","name":"Merv","msg":"Hook: page setup — testcase for user4","suite":"playwright-learning","testcase":"SDLogin.spec.js › testcase for user4"}
+{"ts":"2026-09-08T15:31:09.292Z","level":"INFO","name":"Merv","msg":"Before Hooks › Fixture \"page\" › Create page","suite":"playwright-learning","testcase":"› chromium › SDLogin.spec.js › testcase for user4"}
+{"ts":"2026-09-08T15:31:09.324Z","level":"INFO","name":"Merv","msg":"Wait for timeout","suite":"playwright-learning","testcase":"› chromium › fixtures.spec.js › verify user able to open context"}
+{"ts":"2026-09-08T15:31:09.713Z","level":"INFO","name":"Merv","msg":"Playwright page.goto \"https://www.saucedemo.com/\"","suite":"playwright-learning","testcase":"SDLogin.spec.js › testcase for user4"}
+{"ts":"2026-09-08T15:31:10.023Z","level":"INFO","name":"Merv","msg":"Playwright locator.click locator('[data-test=\"username\"]')","suite":"playwright-learning","testcase":"SDLogin.spec.js › testcase for user4"}
+{"ts":"2026-09-08T15:31:10.111Z","level":"INFO","name":"Merv","msg":"Playwright locator.fill locator('[data-test=\"username\"]') → \"user4\"","suite":"playwright-learning","testcase":"SDLogin.spec.js › testcase for user4"}
+{"ts":"2026-09-08T15:31:10.122Z","level":"INFO","name":"Merv","msg":"Navigate","suite":"playwright-learning","testcase":"› chromium › SDLogin.spec.js › testcase for user4"}
+{"ts":"2026-09-08T15:31:10.194Z","level":"INFO","name":"Merv","msg":"Click","suite":"playwright-learning","testcase":"› chromium › SDLogin.spec.js › testcase for user4"}
+{"ts":"2026-09-08T15:31:10.209Z","level":"INFO","name":"Merv","msg":"Playwright locator.click locator('[data-test=\"password\"]')","suite":"playwright-learning","testcase":"SDLogin.spec.js › testcase for user4"}
+{"ts":"2026-09-08T15:31:10.256Z","level":"INFO","name":"Merv","msg":"Playwright locator.fill locator('[data-test=\"password\"]') → \"password\"","suite":"playwright-learning","testcase":"SDLogin.spec.js › testcase for user4"}
+{"ts":"2026-09-08T15:31:10.277Z","level":"INFO","name":"Merv","msg":"Fill \"user4\"","suite":"playwright-learning","testcase":"› chromium › SDLogin.spec.js › testcase for user4"}
+{"ts":"2026-09-08T15:31:10.311Z","level":"INFO","name":"Merv","msg":"Hook: test end — verify user able to open context"}
+{"ts":"2026-09-08T15:31:10.370Z","level":"INFO","name":"Merv","msg":"Click","suite":"playwright-learning","testcase":"› chromium › SDLogin.spec.js › testcase for user4"}
+{"ts":"2026-09-08T15:31:10.377Z","level":"INFO","name":"Merv","msg":"Playwright locator.click locator('[data-test=\"login-button\"]')","suite":"playwright-learning","testcase":"SDLogin.spec.js › testcase for user4"}
+{"ts":"2026-09-08T15:31:10.465Z","level":"INFO","name":"Merv","msg":"Fill \"password\"","suite":"playwright-learning","testcase":"› chromium › SDLogin.spec.js › testcase for user4"}
+{"ts":"2026-09-08T15:31:10.643Z","level":"INFO","name":"Merv","msg":"Test finished —  › chromium › fixtures.spec.js › verify user able to open context (PASSED)","suite":"playwright-learning","testcase":"› chromium › fixtures.spec.js › verify user able to open context"}
+{"ts":"2026-09-08T15:31:10.661Z","level":"INFO","name":"Merv","msg":"Click","suite":"playwright-learning","testcase":"› chromium › SDLogin.spec.js › testcase for user4"}
+{"ts":"2026-09-08T15:31:10.803Z","level":"INFO","name":"Merv","msg":"Hook: test start — testcase for user5"}
+{"ts":"2026-09-08T15:31:11.001Z","level":"INFO","name":"Merv","msg":"Before Hooks › Fixture \"context\" › Create context","suite":"playwright-learning","testcase":"› chromium › SDLogin.spec.js › testcase for user5"}
+{"ts":"2026-09-08T15:31:11.221Z","level":"INFO","name":"Merv","msg":"Hook: page setup — testcase for user5","suite":"playwright-learning","testcase":"SDLogin.spec.js › testcase for user5"}
+{"ts":"2026-09-08T15:31:11.261Z","level":"INFO","name":"Merv","msg":"Before Hooks › Fixture \"page\" › Create page","suite":"playwright-learning","testcase":"› chromium › SDLogin.spec.js › testcase for user5"}
+{"ts":"2026-09-08T15:31:11.720Z","level":"INFO","name":"Merv","msg":"Navigate","suite":"playwright-learning","testcase":"› chromium › SDLogin.spec.js › testcase for user5"}
+{"ts":"2026-09-08T15:31:11.728Z","level":"INFO","name":"Merv","msg":"Playwright page.goto \"https://www.saucedemo.com/\"","suite":"playwright-learning","testcase":"SDLogin.spec.js › testcase for user5"}
+{"ts":"2026-09-08T15:31:12.047Z","level":"INFO","name":"Merv","msg":"Playwright locator.click locator('[data-test=\"username\"]')","suite":"playwright-learning","testcase":"SDLogin.spec.js › testcase for user5"}
+{"ts":"2026-09-08T15:31:12.051Z","level":"INFO","name":"Merv","msg":"Click","suite":"playwright-learning","testcase":"› chromium › SDLogin.spec.js › testcase for user5"}
+{"ts":"2026-09-08T15:31:12.157Z","level":"INFO","name":"Merv","msg":"Playwright locator.fill locator('[data-test=\"username\"]') → \"user5\"","suite":"playwright-learning","testcase":"SDLogin.spec.js › testcase for user5"}
+{"ts":"2026-09-08T15:31:12.203Z","level":"INFO","name":"Merv","msg":"Fill \"user5\"","suite":"playwright-learning","testcase":"› chromium › SDLogin.spec.js › testcase for user5"}
+{"ts":"2026-09-08T15:31:12.266Z","level":"INFO","name":"Merv","msg":"Playwright locator.click locator('[data-test=\"password\"]')","suite":"playwright-learning","testcase":"SDLogin.spec.js › testcase for user5"}
+{"ts":"2026-09-08T15:31:12.302Z","level":"INFO","name":"Merv","msg":"Click","suite":"playwright-learning","testcase":"› chromium › SDLogin.spec.js › testcase for user5"}
+{"ts":"2026-09-08T15:31:12.346Z","level":"INFO","name":"Merv","msg":"Playwright locator.fill locator('[data-test=\"password\"]') → \"password\"","suite":"playwright-learning","testcase":"SDLogin.spec.js › testcase for user5"}
+{"ts":"2026-09-08T15:31:12.441Z","level":"INFO","name":"Merv","msg":"Fill \"password\"","suite":"playwright-learning","testcase":"› chromium › SDLogin.spec.js › testcase for user5"}
+{"ts":"2026-09-08T15:31:12.491Z","level":"INFO","name":"Merv","msg":"Playwright locator.click locator('[data-test=\"login-button\"]')","suite":"playwright-learning","testcase":"SDLogin.spec.js › testcase for user5"}
+{"ts":"2026-09-08T15:31:12.580Z","level":"INFO","name":"Merv","msg":"Click","suite":"playwright-learning","testcase":"› chromium › SDLogin.spec.js › testcase for user5"}
+{"ts":"2026-09-08T15:31:12.677Z","level":"INFO","name":"Merv","msg":"After Hooks › Fixture \"context\" › Close context","suite":"playwright-learning","testcase":"› chromium › SDLogin.spec.js › testcase for user3"}
+{"ts":"2026-09-08T15:31:12.687Z","level":"INFO","name":"Merv","msg":"Hook: test end — testcase for user3","suite":"playwright-learning","testcase":"SDLogin.spec.js › testcase for user3"}
+{"ts":"2026-09-08T15:31:13.090Z","level":"ERROR","name":"Merv","msg":"Test finished —  › chromium › SDLogin.spec.js › testcase for user3 (FAILED)","suite":"playwright-learning","testcase":"› chromium › SDLogin.spec.js › testcase for user3"}
+{"ts":"2026-09-08T15:31:13.752Z","level":"INFO","name":"Merv","msg":"Wait for timeout","suite":"playwright-learning","testcase":"› chromium › formsubmission.spec.js › form submission test"}
+{"ts":"2026-09-08T15:31:13.864Z","level":"INFO","name":"Merv","msg":"Hook: page teardown — form submission test","suite":"playwright-learning","testcase":"formsubmission.spec.js › form submission test"}
+{"ts":"2026-09-08T15:31:15.058Z","level":"INFO","name":"Merv","msg":"Hook: test start — testcase for user6"}
+{"ts":"2026-09-08T15:31:15.279Z","level":"INFO","name":"Merv","msg":"Before Hooks › Fixture \"browser\" › Launch browser","suite":"playwright-learning","testcase":"› chromium › SDLogin.spec.js › testcase for user6"}
+{"ts":"2026-09-08T15:31:15.449Z","level":"INFO","name":"Merv","msg":"Before Hooks › Fixture \"context\" › Create context","suite":"playwright-learning","testcase":"› chromium › SDLogin.spec.js › testcase for user6"}
+{"ts":"2026-09-08T15:31:15.446Z","level":"INFO","name":"Merv","msg":"Playwright expect.toHaveURL (failed)","suite":"playwright-learning","testcase":"SDLogin.spec.js › testcase for user4"}
+{"ts":"2026-09-08T15:31:15.561Z","level":"ERROR","name":"Merv","msg":"Expect \"toHaveURL\"","suite":"playwright-learning","testcase":"› chromium › SDLogin.spec.js › testcase for user4"}
+{"ts":"2026-09-08T15:31:15.593Z","level":"INFO","name":"Merv","msg":"Hook: page setup — testcase for user6","suite":"playwright-learning","testcase":"SDLogin.spec.js › testcase for user6"}
+{"ts":"2026-09-08T15:31:15.676Z","level":"INFO","name":"Merv","msg":"Hook: page teardown — testcase for user4","suite":"playwright-learning","testcase":"SDLogin.spec.js › testcase for user4"}
+{"ts":"2026-09-08T15:31:15.684Z","level":"INFO","name":"Merv","msg":"Hook: test end — form submission test","suite":"playwright-learning","testcase":"formsubmission.spec.js › form submission test"}
+{"ts":"2026-09-08T15:31:15.690Z","level":"INFO","name":"Merv","msg":"After Hooks › Fixture \"context\" › Close context","suite":"playwright-learning","testcase":"› chromium › formsubmission.spec.js › form submission test"}
+{"ts":"2026-09-08T15:31:15.899Z","level":"INFO","name":"Merv","msg":"Before Hooks › Fixture \"page\" › Create page","suite":"playwright-learning","testcase":"› chromium › SDLogin.spec.js › testcase for user6"}
+{"ts":"2026-09-08T15:31:15.992Z","level":"INFO","name":"Merv","msg":"Playwright page.goto \"https://www.saucedemo.com/\"","suite":"playwright-learning","testcase":"SDLogin.spec.js › testcase for user6"}
+{"ts":"2026-09-08T15:31:16.356Z","level":"INFO","name":"Merv","msg":"Playwright locator.click locator('[data-test=\"username\"]')","suite":"playwright-learning","testcase":"SDLogin.spec.js › testcase for user6"}
+{"ts":"2026-09-08T15:31:16.450Z","level":"INFO","name":"Merv","msg":"Playwright locator.fill locator('[data-test=\"username\"]') → \"user6\"","suite":"playwright-learning","testcase":"SDLogin.spec.js › testcase for user6"}
+{"ts":"2026-09-08T15:31:16.562Z","level":"INFO","name":"Merv","msg":"Playwright locator.click locator('[data-test=\"password\"]')","suite":"playwright-learning","testcase":"SDLogin.spec.js › testcase for user6"}
+{"ts":"2026-09-08T15:31:16.599Z","level":"INFO","name":"Merv","msg":"Test finished —  › chromium › formsubmission.spec.js › form submission test (PASSED)","suite":"playwright-learning","testcase":"› chromium › formsubmission.spec.js › form submission test"}
+{"ts":"2026-09-08T15:31:16.609Z","level":"INFO","name":"Merv","msg":"Playwright locator.fill locator('[data-test=\"password\"]') → \"password\"","suite":"playwright-learning","testcase":"SDLogin.spec.js › testcase for user6"}
+{"ts":"2026-09-08T15:31:16.744Z","level":"INFO","name":"Merv","msg":"Playwright locator.click locator('[data-test=\"login-button\"]')","suite":"playwright-learning","testcase":"SDLogin.spec.js › testcase for user6"}
+{"ts":"2026-09-08T15:31:16.760Z","level":"INFO","name":"Merv","msg":"Hook: test start — testcase for user7","suite":"playwright-learning"}
+{"ts":"2026-09-08T15:31:16.779Z","level":"INFO","name":"Merv","msg":"Navigate","suite":"playwright-learning","testcase":"› chromium › SDLogin.spec.js › testcase for user6"}
+{"ts":"2026-09-08T15:31:17.027Z","level":"INFO","name":"Merv","msg":"Click","suite":"playwright-learning","testcase":"› chromium › SDLogin.spec.js › testcase for user6"}
+{"ts":"2026-09-08T15:31:17.091Z","level":"INFO","name":"Merv","msg":"Hook: page setup — testcase for user7","suite":"playwright-learning","testcase":"SDLogin.spec.js › testcase for user7"}
+{"ts":"2026-09-08T15:31:17.211Z","level":"INFO","name":"Merv","msg":"Fill \"user6\"","suite":"playwright-learning","testcase":"› chromium › SDLogin.spec.js › testcase for user6"}
+{"ts":"2026-09-08T15:31:17.283Z","level":"INFO","name":"Merv","msg":"Before Hooks › Fixture \"context\" › Create context","suite":"playwright-learning","testcase":"› chromium › SDLogin.spec.js › testcase for user7"}
+{"ts":"2026-09-08T15:31:17.413Z","level":"INFO","name":"Merv","msg":"Click","suite":"playwright-learning","testcase":"› chromium › SDLogin.spec.js › testcase for user6"}
+{"ts":"2026-09-08T15:31:17.504Z","level":"INFO","name":"Merv","msg":"Playwright page.goto \"https://www.saucedemo.com/\"","suite":"playwright-learning","testcase":"SDLogin.spec.js › testcase for user7"}
+{"ts":"2026-09-08T15:31:17.544Z","level":"INFO","name":"Merv","msg":"Before Hooks › Fixture \"page\" › Create page","suite":"playwright-learning","testcase":"› chromium › SDLogin.spec.js › testcase for user7"}
+{"ts":"2026-09-08T15:31:17.573Z","level":"INFO","name":"Merv","msg":"Playwright expect.toHaveURL (failed)","suite":"playwright-learning","testcase":"SDLogin.spec.js › testcase for user5"}
+{"ts":"2026-09-08T15:31:17.581Z","level":"INFO","name":"Merv","msg":"Fill \"password\"","suite":"playwright-learning","testcase":"› chromium › SDLogin.spec.js › testcase for user6"}
+{"ts":"2026-09-08T15:31:17.633Z","level":"ERROR","name":"Merv","msg":"Expect \"toHaveURL\"","suite":"playwright-learning","testcase":"› chromium › SDLogin.spec.js › testcase for user5"}
+{"ts":"2026-09-08T15:31:17.812Z","level":"INFO","name":"Merv","msg":"Playwright locator.click locator('[data-test=\"username\"]')","suite":"playwright-learning","testcase":"SDLogin.spec.js › testcase for user7"}
+{"ts":"2026-09-08T15:31:18.022Z","level":"INFO","name":"Merv","msg":"Playwright locator.fill locator('[data-test=\"username\"]') → \"user7\"","suite":"playwright-learning","testcase":"SDLogin.spec.js › testcase for user7"}
+{"ts":"2026-09-08T15:31:18.172Z","level":"INFO","name":"Merv","msg":"Click","suite":"playwright-learning","testcase":"› chromium › SDLogin.spec.js › testcase for user6"}
+{"ts":"2026-09-08T15:31:18.237Z","level":"INFO","name":"Merv","msg":"Playwright locator.click locator('[data-test=\"password\"]')","suite":"playwright-learning","testcase":"SDLogin.spec.js › testcase for user7"}
+{"ts":"2026-09-08T15:31:18.294Z","level":"INFO","name":"Merv","msg":"Playwright locator.fill locator('[data-test=\"password\"]') → \"password\"","suite":"playwright-learning","testcase":"SDLogin.spec.js › testcase for user7"}
+{"ts":"2026-09-08T15:31:18.434Z","level":"INFO","name":"Merv","msg":"Navigate","suite":"playwright-learning","testcase":"› chromium › SDLogin.spec.js › testcase for user7"}
+{"ts":"2026-09-08T15:31:18.459Z","level":"INFO","name":"Merv","msg":"Playwright locator.click locator('[data-test=\"login-button\"]')","suite":"playwright-learning","testcase":"SDLogin.spec.js › testcase for user7"}
+{"ts":"2026-09-08T15:31:18.512Z","level":"INFO","name":"Merv","msg":"Click","suite":"playwright-learning","testcase":"› chromium › SDLogin.spec.js › testcase for user7"}
+{"ts":"2026-09-08T15:31:18.583Z","level":"INFO","name":"Merv","msg":"Fill \"user7\"","suite":"playwright-learning","testcase":"› chromium › SDLogin.spec.js › testcase for user7"}
+{"ts":"2026-09-08T15:31:18.644Z","level":"INFO","name":"Merv","msg":"Hook: test end — testcase for user4","suite":"playwright-learning","testcase":"SDLogin.spec.js › testcase for user4"}
+{"ts":"2026-09-08T15:31:18.654Z","level":"INFO","name":"Merv","msg":"After Hooks › Fixture \"context\" › Close context","suite":"playwright-learning","testcase":"› chromium › SDLogin.spec.js › testcase for user4"}
+{"ts":"2026-09-08T15:31:18.793Z","level":"INFO","name":"Merv","msg":"Click","suite":"playwright-learning","testcase":"› chromium › SDLogin.spec.js › testcase for user7"}
+{"ts":"2026-09-08T15:31:18.861Z","level":"INFO","name":"Merv","msg":"Hook: page teardown — testcase for user5","suite":"playwright-learning","testcase":"SDLogin.spec.js › testcase for user5"}
+{"ts":"2026-09-08T15:31:18.959Z","level":"INFO","name":"Merv","msg":"Fill \"password\"","suite":"playwright-learning","testcase":"› chromium › SDLogin.spec.js › testcase for user7"}
+{"ts":"2026-09-08T15:31:19.172Z","level":"INFO","name":"Merv","msg":"Click","suite":"playwright-learning","testcase":"› chromium › SDLogin.spec.js › testcase for user7"}
+{"ts":"2026-09-08T15:31:19.538Z","level":"ERROR","name":"Merv","msg":"Test finished —  › chromium › SDLogin.spec.js › testcase for user4 (FAILED)","suite":"playwright-learning","testcase":"› chromium › SDLogin.spec.js › testcase for user4"}
+{"ts":"2026-09-08T15:31:21.138Z","level":"INFO","name":"Merv","msg":"After Hooks › Fixture \"context\" › Close context","suite":"playwright-learning","testcase":"› chromium › SDLogin.spec.js › testcase for user5"}
+{"ts":"2026-09-08T15:31:21.152Z","level":"INFO","name":"Merv","msg":"Hook: test end — testcase for user5","suite":"playwright-learning","testcase":"SDLogin.spec.js › testcase for user5"}
+{"ts":"2026-09-08T15:31:21.653Z","level":"ERROR","name":"Merv","msg":"Test finished —  › chromium › SDLogin.spec.js › testcase for user5 (FAILED)","suite":"playwright-learning","testcase":"› chromium › SDLogin.spec.js › testcase for user5"}
+{"ts":"2026-09-08T15:31:21.807Z","level":"INFO","name":"Merv","msg":"Playwright expect.toHaveURL (failed)","suite":"playwright-learning","testcase":"SDLogin.spec.js › testcase for user6"}
+{"ts":"2026-09-08T15:31:21.807Z","level":"ERROR","name":"Merv","msg":"Expect \"toHaveURL\"","suite":"playwright-learning","testcase":"› chromium › SDLogin.spec.js › testcase for user6"}
+{"ts":"2026-09-08T15:31:21.906Z","level":"INFO","name":"Merv","msg":"Hook: page teardown — testcase for user6","suite":"playwright-learning","testcase":"SDLogin.spec.js › testcase for user6"}
+{"ts":"2026-09-08T15:31:22.241Z","level":"INFO","name":"Merv","msg":"Hook: test start — submit form"}
+{"ts":"2026-09-08T15:31:22.493Z","level":"INFO","name":"Merv","msg":"Before Hooks › Fixture \"browser\" › Launch browser","suite":"playwright-learning","testcase":"› chromium › submitform.spec.js › submit form"}
+{"ts":"2026-09-08T15:31:22.718Z","level":"INFO","name":"Merv","msg":"Before Hooks › Fixture \"context\" › Create context","suite":"playwright-learning","testcase":"› chromium › submitform.spec.js › submit form"}
+{"ts":"2026-09-08T15:31:22.833Z","level":"INFO","name":"Merv","msg":"Hook: page setup — submit form","suite":"playwright-learning","testcase":"submitform.spec.js › submit form"}
+{"ts":"2026-09-08T15:31:22.838Z","level":"INFO","name":"Merv","msg":"Before Hooks › Fixture \"page\" › Create page","suite":"playwright-learning","testcase":"› chromium › submitform.spec.js › submit form"}
+{"ts":"2026-09-08T15:31:23.161Z","level":"INFO","name":"Merv","msg":"Playwright page.goto \"file:///C:/Users/ADMIN/Downloads/automation-practice-master-main/automation-p…\"","suite":"playwright-learning","testcase":"submitform.spec.js › submit form"}
+{"ts":"2026-09-08T15:31:23.162Z","level":"INFO","name":"Merv","msg":"Navigate","suite":"playwright-learning","testcase":"› chromium › submitform.spec.js › submit form"}
+{"ts":"2026-09-08T15:31:23.507Z","level":"INFO","name":"Merv","msg":"Playwright expect.toHaveURL (failed)","suite":"playwright-learning","testcase":"SDLogin.spec.js › testcase for user7"}
+{"ts":"2026-09-08T15:31:23.509Z","level":"ERROR","name":"Merv","msg":"Expect \"toHaveURL\"","suite":"playwright-learning","testcase":"› chromium › SDLogin.spec.js › testcase for user7"}
+{"ts":"2026-09-08T15:31:23.627Z","level":"INFO","name":"Merv","msg":"Playwright locator.click getByRole('link', { name: '📝 Form Submission Practice' })","suite":"playwright-learning","testcase":"submitform.spec.js › submit form"}
+{"ts":"2026-09-08T15:31:23.641Z","level":"INFO","name":"Merv","msg":"Click","suite":"playwright-learning","testcase":"› chromium › submitform.spec.js › submit form"}
+{"ts":"2026-09-08T15:31:23.711Z","level":"INFO","name":"Merv","msg":"Hook: page teardown — testcase for user7","suite":"playwright-learning","testcase":"SDLogin.spec.js › testcase for user7"}
+{"ts":"2026-09-08T15:31:23.825Z","level":"INFO","name":"Merv","msg":"Playwright expect.toBeVisible (passed)","suite":"playwright-learning","testcase":"submitform.spec.js › submit form"}
+{"ts":"2026-09-08T15:31:23.832Z","level":"INFO","name":"Merv","msg":"Expect \"toBeVisible\"","suite":"playwright-learning","testcase":"› chromium › submitform.spec.js › submit form"}
+{"ts":"2026-09-08T15:31:23.935Z","level":"INFO","name":"Merv","msg":"Playwright locator.click getByRole('textbox', { name: 'Full Name *' })","suite":"playwright-learning","testcase":"submitform.spec.js › submit form"}
+{"ts":"2026-09-08T15:31:24.007Z","level":"INFO","name":"Merv","msg":"Playwright locator.fill getByRole('textbox', { name: 'Full Name *' }) → \"deepak pande\"","suite":"playwright-learning","testcase":"submitform.spec.js › submit form"}
+{"ts":"2026-09-08T15:31:24.039Z","level":"INFO","name":"Merv","msg":"Click","suite":"playwright-learning","testcase":"› chromium › submitform.spec.js › submit form"}
+{"ts":"2026-09-08T15:31:24.123Z","level":"INFO","name":"Merv","msg":"Playwright locator.click getByRole('textbox', { name: 'Email Address *' })","suite":"playwright-learning","testcase":"submitform.spec.js › submit form"}
+{"ts":"2026-09-08T15:31:24.198Z","level":"INFO","name":"Merv","msg":"Playwright locator.fill getByRole('textbox', { name: 'Email Address *' }) → \"deepakpande@gmail.com\"","suite":"playwright-learning","testcase":"submitform.spec.js › submit form"}
+{"ts":"2026-09-08T15:31:24.237Z","level":"INFO","name":"Merv","msg":"Hook: test end — testcase for user6","suite":"playwright-learning","testcase":"SDLogin.spec.js › testcase for user6"}
+{"ts":"2026-09-08T15:31:24.268Z","level":"INFO","name":"Merv","msg":"After Hooks › Fixture \"context\" › Close context","suite":"playwright-learning","testcase":"› chromium › SDLogin.spec.js › testcase for user6"}
+{"ts":"2026-09-08T15:31:24.310Z","level":"INFO","name":"Merv","msg":"Fill \"deepak pande\"","suite":"playwright-learning","testcase":"› chromium › submitform.spec.js › submit form"}
+{"ts":"2026-09-08T15:31:24.320Z","level":"INFO","name":"Merv","msg":"Playwright locator.click getByRole('textbox', { name: 'Password *' })","suite":"playwright-learning","testcase":"submitform.spec.js › submit form"}
+{"ts":"2026-09-08T15:31:24.382Z","level":"INFO","name":"Merv","msg":"Playwright locator.fill getByRole('textbox', { name: 'Password *' }) → \"dsp@123\"","suite":"playwright-learning","testcase":"submitform.spec.js › submit form"}
+{"ts":"2026-09-08T15:31:24.522Z","level":"INFO","name":"Merv","msg":"Playwright locator.click getByRole('textbox', { name: 'Phone Number' })","suite":"playwright-learning","testcase":"submitform.spec.js › submit form"}
+{"ts":"2026-09-08T15:31:24.551Z","level":"INFO","name":"Merv","msg":"Click","suite":"playwright-learning","testcase":"› chromium › submitform.spec.js › submit form"}
+{"ts":"2026-09-08T15:31:24.602Z","level":"INFO","name":"Merv","msg":"Playwright locator.fill getByRole('textbox', { name: 'Phone Number' }) → \"98563689282\"","suite":"playwright-learning","testcase":"submitform.spec.js › submit form"}
+{"ts":"2026-09-08T15:31:24.823Z","level":"INFO","name":"Merv","msg":"Playwright locator.click getByRole('spinbutton', { name: 'Age' })","suite":"playwright-learning","testcase":"submitform.spec.js › submit form"}
+{"ts":"2026-09-08T15:31:24.868Z","level":"INFO","name":"Merv","msg":"Fill \"deepakpande@gmail.com\"","suite":"playwright-learning","testcase":"› chromium › submitform.spec.js › submit form"}
+{"ts":"2026-09-08T15:31:24.920Z","level":"INFO","name":"Merv","msg":"Playwright locator.fill getByRole('spinbutton', { name: 'Age' }) → \"34\"","suite":"playwright-learning","testcase":"submitform.spec.js › submit form"}
+{"ts":"2026-09-08T15:31:24.991Z","level":"INFO","name":"Merv","msg":"Playwright locator.selectOption getByLabel('Country')","suite":"playwright-learning","testcase":"submitform.spec.js › submit form"}
+{"ts":"2026-09-08T15:31:25.078Z","level":"INFO","name":"Merv","msg":"Click","suite":"playwright-learning","testcase":"› chromium › submitform.spec.js › submit form"}
+{"ts":"2026-09-08T15:31:25.079Z","level":"INFO","name":"Merv","msg":"Playwright locator.click getByRole('textbox', { name: 'Bio / About Me' })","suite":"playwright-learning","testcase":"submitform.spec.js › submit form"}
+{"ts":"2026-09-08T15:31:25.132Z","level":"INFO","name":"Merv","msg":"Playwright locator.fill getByRole('textbox', { name: 'Bio / About Me' }) → \"hello..\"","suite":"playwright-learning","testcase":"submitform.spec.js › submit form"}
+{"ts":"2026-09-08T15:31:25.160Z","level":"INFO","name":"Merv","msg":"Playwright expect.toBeEnabled (passed)","suite":"playwright-learning","testcase":"submitform.spec.js › submit form"}
+{"ts":"2026-09-08T15:31:25.162Z","level":"INFO","name":"Merv","msg":"Fill \"dsp@123\"","suite":"playwright-learning","testcase":"› chromium › submitform.spec.js › submit form"}
+{"ts":"2026-09-08T15:31:25.290Z","level":"INFO","name":"Merv","msg":"Playwright locator.click getByRole('button', { name: 'Submit Form' })","suite":"playwright-learning","testcase":"submitform.spec.js › submit form"}
+{"ts":"2026-09-08T15:31:25.274Z","level":"INFO","name":"Merv","msg":"Click","suite":"playwright-learning","testcase":"› chromium › submitform.spec.js › submit form"}
+{"ts":"2026-09-08T15:31:25.463Z","level":"INFO","name":"Merv","msg":"Hook: page teardown — submit form","suite":"playwright-learning","testcase":"submitform.spec.js › submit form"}
+{"ts":"2026-09-08T15:31:25.481Z","level":"INFO","name":"Merv","msg":"Fill \"98563689282\"","suite":"playwright-learning","testcase":"› chromium › submitform.spec.js › submit form"}
+{"ts":"2026-09-08T15:31:25.614Z","level":"ERROR","name":"Merv","msg":"Test finished —  › chromium › SDLogin.spec.js › testcase for user6 (FAILED)","suite":"playwright-learning","testcase":"› chromium › SDLogin.spec.js › testcase for user6"}
+{"ts":"2026-09-08T15:31:25.674Z","level":"INFO","name":"Merv","msg":"Click","suite":"playwright-learning","testcase":"› chromium › submitform.spec.js › submit form"}
+{"ts":"2026-09-08T15:31:25.769Z","level":"INFO","name":"Merv","msg":"Fill \"34\"","suite":"playwright-learning","testcase":"› chromium › submitform.spec.js › submit form"}
+{"ts":"2026-09-08T15:31:25.947Z","level":"INFO","name":"Merv","msg":"Select option","suite":"playwright-learning","testcase":"› chromium › submitform.spec.js › submit form"}
+{"ts":"2026-09-08T15:31:25.957Z","level":"INFO","name":"Merv","msg":"Hook: test end — submit form","suite":"playwright-learning","testcase":"submitform.spec.js › submit form"}
+{"ts":"2026-09-08T15:31:26.103Z","level":"INFO","name":"Merv","msg":"Click","suite":"playwright-learning","testcase":"› chromium › submitform.spec.js › submit form"}
+{"ts":"2026-09-08T15:31:26.171Z","level":"INFO","name":"Merv","msg":"Fill \"hello..\"","suite":"playwright-learning","testcase":"› chromium › submitform.spec.js › submit form"}
+{"ts":"2026-09-08T15:31:26.242Z","level":"INFO","name":"Merv","msg":"Expect \"toBeEnabled\"","suite":"playwright-learning","testcase":"› chromium › submitform.spec.js › submit form"}
+{"ts":"2026-09-08T15:31:26.306Z","level":"INFO","name":"Merv","msg":"Click","suite":"playwright-learning","testcase":"› chromium › submitform.spec.js › submit form"}
+{"ts":"2026-09-08T15:31:26.386Z","level":"INFO","name":"Merv","msg":"Hook: test end — testcase for user7","suite":"playwright-learning","testcase":"SDLogin.spec.js › testcase for user7"}
+{"ts":"2026-09-08T15:31:26.397Z","level":"INFO","name":"Merv","msg":"After Hooks › Fixture \"context\" › Close context","suite":"playwright-learning","testcase":"› chromium › SDLogin.spec.js › testcase for user7"}
+{"ts":"2026-09-08T15:31:26.670Z","level":"INFO","name":"Merv","msg":"After Hooks › Fixture \"context\" › Close context","suite":"playwright-learning","testcase":"› chromium › submitform.spec.js › submit form"}
+{"ts":"2026-09-08T15:31:26.872Z","level":"ERROR","name":"Merv","msg":"Test finished —  › chromium › SDLogin.spec.js › testcase for user7 (FAILED)","suite":"playwright-learning","testcase":"› chromium › SDLogin.spec.js › testcase for user7"}
+{"ts":"2026-09-08T15:31:26.932Z","level":"INFO","name":"Merv","msg":"Test finished —  › chromium › submitform.spec.js › submit form (PASSED)","suite":"playwright-learning","testcase":"› chromium › submitform.spec.js › submit form"}

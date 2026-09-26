@@ -1,0 +1,255 @@
+{
+  "version": "1.0",
+  "running": false,
+  "lastActivityMillis": 1788881238786,
+  "exportDate": "Tue Sep 08 2026 18:27:18 GMT+0300 (Eastern European Summer Time)",
+  "testSuite": {
+    "title": "playwright-learning",
+    "startTime": "2026-09-08T15:27:09.164Z",
+    "endTime": "2026-09-08T15:27:18.786Z",
+    "testCases": [
+      {
+        "testcaseName": " › chromium › formsubmission.spec.js › form submission test",
+        "status": "FAILED",
+        "failureReason": "Before Hooks › Fixture \"browser\" › Launch browser: Error: browserType.launch: Executable doesn't exist at C:\\Users\\ADMIN\\AppData\\Local\\ms-playwright\\chromium-1243\\chrome-win64\\chrome.exe\n╔════════════════════════════════════════════════════════════╗\n║ Looks like Playwright was just installed or updated.       ║\n║ Please run the following command to download new browsers: ║\n║                                                            ║\n║     npx playwright install                                 ║\n║                                                            ║\n║ <3 Playwright Team                                         ║\n╚════════════════════════════════════════════════════════════╝",
+        "tags": [
+          "chromium"
+        ],
+        "startTime": "2026-09-08T15:27:11.333Z",
+        "endTime": "2026-09-08T15:27:11.400Z",
+        "executionMachine": "DESKTOP-IS3TUP4",
+        "testSteps": [
+          {
+            "teststepName": "Before Hooks › Fixture \"browser\" › Launch browser",
+            "stepType": "PLAYWRIGHT_API",
+            "status": "FAILED",
+            "startTime": "2026-09-08T15:27:11.510Z",
+            "endTime": "2026-09-08T15:27:11.526Z",
+            "errorMessage": "Error: browserType.launch: Executable doesn't exist at C:\\Users\\ADMIN\\AppData\\Local\\ms-playwright\\chromium-1243\\chrome-win64\\chrome.exe\n╔════════════════════════════════════════════════════════════╗\n║ Looks like Playwright was just installed or updated.       ║\n║ Please run the following command to download new browsers: ║\n║                                                            ║\n║     npx playwright install                                 ║\n║                                                            ║\n║ <3 Playwright Team                                         ║\n╚════════════════════════════════════════════════════════════╝",
+            "screenshots": []
+          }
+        ]
+      },
+      {
+        "testcaseName": " › chromium › SDLogin.spec.js › testcase for standard_user",
+        "status": "FAILED",
+        "failureReason": "Before Hooks › Fixture \"browser\" › Launch browser: Error: browserType.launch: Executable doesn't exist at C:\\Users\\ADMIN\\AppData\\Local\\ms-playwright\\chromium-1243\\chrome-win64\\chrome.exe\n╔════════════════════════════════════════════════════════════╗\n║ Looks like Playwright was just installed or updated.       ║\n║ Please run the following command to download new browsers: ║\n║                                                            ║\n║     npx playwright install                                 ║\n║                                                            ║\n║ <3 Playwright Team                                         ║\n╚════════════════════════════════════════════════════════════╝",
+        "tags": [
+          "chromium"
+        ],
+        "startTime": "2026-09-08T15:27:11.345Z",
+        "endTime": "2026-09-08T15:27:11.393Z",
+        "executionMachine": "DESKTOP-IS3TUP4",
+        "testSteps": [
+          {
+            "teststepName": "Before Hooks › Fixture \"browser\" › Launch browser",
+            "stepType": "PLAYWRIGHT_API",
+            "status": "FAILED",
+            "startTime": "2026-09-08T15:27:11.490Z",
+            "endTime": "2026-09-08T15:27:11.526Z",
+            "errorMessage": "Error: browserType.launch: Executable doesn't exist at C:\\Users\\ADMIN\\AppData\\Local\\ms-playwright\\chromium-1243\\chrome-win64\\chrome.exe\n╔════════════════════════════════════════════════════════════╗\n║ Looks like Playwright was just installed or updated.       ║\n║ Please run the following command to download new browsers: ║\n║                                                            ║\n║     npx playwright install                                 ║\n║                                                            ║\n║ <3 Playwright Team                                         ║\n╚════════════════════════════════════════════════════════════╝",
+            "screenshots": []
+          }
+        ]
+      },
+      {
+        "testcaseName": " › chromium › fixtures.spec.js › verify user able to open context",
+        "status": "FAILED",
+        "failureReason": "Before Hooks › Fixture \"browser\" › Launch browser: Error: browserType.launch: Executable doesn't exist at C:\\Users\\ADMIN\\AppData\\Local\\ms-playwright\\chromium-1243\\chrome-win64\\chrome.exe\n╔════════════════════════════════════════════════════════════╗\n║ Looks like Playwright was just installed or updated.       ║\n║ Please run the following command to download new browsers: ║\n║                                                            ║\n║     npx playwright install                                 ║\n║                                                            ║\n║ <3 Playwright Team                                         ║\n╚════════════════════════════════════════════════════════════╝",
+        "tags": [
+          "chromium"
+        ],
+        "startTime": "2026-09-08T15:27:11.356Z",
+        "endTime": "2026-09-08T15:27:11.431Z",
+        "executionMachine": "DESKTOP-IS3TUP4",
+        "testSteps": [
+          {
+            "teststepName": "Before Hooks › Fixture \"browser\" › Launch browser",
+            "stepType": "PLAYWRIGHT_API",
+            "status": "FAILED",
+            "startTime": "2026-09-08T15:27:11.557Z",
+            "endTime": "2026-09-08T15:27:11.580Z",
+            "errorMessage": "Error: browserType.launch: Executable doesn't exist at C:\\Users\\ADMIN\\AppData\\Local\\ms-playwright\\chromium-1243\\chrome-win64\\chrome.exe\n╔════════════════════════════════════════════════════════════╗\n║ Looks like Playwright was just installed or updated.       ║\n║ Please run the following command to download new browsers: ║\n║                                                            ║\n║     npx playwright install                                 ║\n║                                                            ║\n║ <3 Playwright Team                                         ║\n╚════════════════════════════════════════════════════════════╝",
+            "screenshots": []
+          }
+        ]
+      },
+      {
+        "testcaseName": " › chromium › sd-happy flow.spec.js › Happy Flow",
+        "status": "FAILED",
+        "failureReason": "Before Hooks › Fixture \"browser\" › Launch browser: Error: browserType.launch: Executable doesn't exist at C:\\Users\\ADMIN\\AppData\\Local\\ms-playwright\\chromium-1243\\chrome-win64\\chrome.exe\n╔════════════════════════════════════════════════════════════╗\n║ Looks like Playwright was just installed or updated.       ║\n║ Please run the following command to download new browsers: ║\n║                                                            ║\n║     npx playwright install                                 ║\n║                                                            ║\n║ <3 Playwright Team                                         ║\n╚════════════════════════════════════════════════════════════╝",
+        "tags": [
+          "chromium"
+        ],
+        "startTime": "2026-09-08T15:27:11.511Z",
+        "endTime": "2026-09-08T15:27:11.546Z",
+        "executionMachine": "DESKTOP-IS3TUP4",
+        "testSteps": [
+          {
+            "teststepName": "Before Hooks › Fixture \"browser\" › Launch browser",
+            "stepType": "PLAYWRIGHT_API",
+            "status": "FAILED",
+            "startTime": "2026-09-08T15:27:11.705Z",
+            "endTime": "2026-09-08T15:27:11.713Z",
+            "errorMessage": "Error: browserType.launch: Executable doesn't exist at C:\\Users\\ADMIN\\AppData\\Local\\ms-playwright\\chromium-1243\\chrome-win64\\chrome.exe\n╔════════════════════════════════════════════════════════════╗\n║ Looks like Playwright was just installed or updated.       ║\n║ Please run the following command to download new browsers: ║\n║                                                            ║\n║     npx playwright install                                 ║\n║                                                            ║\n║ <3 Playwright Team                                         ║\n╚════════════════════════════════════════════════════════════╝",
+            "screenshots": []
+          }
+        ]
+      },
+      {
+        "testcaseName": " › chromium › SDLogin.spec.js › testcase for user3",
+        "status": "FAILED",
+        "failureReason": "Before Hooks › Fixture \"browser\" › Launch browser: Error: browserType.launch: Executable doesn't exist at C:\\Users\\ADMIN\\AppData\\Local\\ms-playwright\\chromium-1243\\chrome-win64\\chrome.exe\n╔════════════════════════════════════════════════════════════╗\n║ Looks like Playwright was just installed or updated.       ║\n║ Please run the following command to download new browsers: ║\n║                                                            ║\n║     npx playwright install                                 ║\n║                                                            ║\n║ <3 Playwright Team                                         ║\n╚════════════════════════════════════════════════════════════╝",
+        "tags": [
+          "chromium"
+        ],
+        "startTime": "2026-09-08T15:27:15.063Z",
+        "endTime": "2026-09-08T15:27:15.113Z",
+        "executionMachine": "DESKTOP-IS3TUP4",
+        "testSteps": [
+          {
+            "teststepName": "Before Hooks › Fixture \"browser\" › Launch browser",
+            "stepType": "PLAYWRIGHT_API",
+            "status": "FAILED",
+            "startTime": "2026-09-08T15:27:15.208Z",
+            "endTime": "2026-09-08T15:27:15.218Z",
+            "errorMessage": "Error: browserType.launch: Executable doesn't exist at C:\\Users\\ADMIN\\AppData\\Local\\ms-playwright\\chromium-1243\\chrome-win64\\chrome.exe\n╔════════════════════════════════════════════════════════════╗\n║ Looks like Playwright was just installed or updated.       ║\n║ Please run the following command to download new browsers: ║\n║                                                            ║\n║     npx playwright install                                 ║\n║                                                            ║\n║ <3 Playwright Team                                         ║\n╚════════════════════════════════════════════════════════════╝",
+            "screenshots": []
+          }
+        ]
+      },
+      {
+        "testcaseName": " › chromium › SDLogin.spec.js › testcase for user4",
+        "status": "FAILED",
+        "failureReason": "Before Hooks › Fixture \"browser\" › Launch browser: Error: browserType.launch: Executable doesn't exist at C:\\Users\\ADMIN\\AppData\\Local\\ms-playwright\\chromium-1243\\chrome-win64\\chrome.exe\n╔════════════════════════════════════════════════════════════╗\n║ Looks like Playwright was just installed or updated.       ║\n║ Please run the following command to download new browsers: ║\n║                                                            ║\n║     npx playwright install                                 ║\n║                                                            ║\n║ <3 Playwright Team                                         ║\n╚════════════════════════════════════════════════════════════╝",
+        "tags": [
+          "chromium"
+        ],
+        "startTime": "2026-09-08T15:27:15.078Z",
+        "endTime": "2026-09-08T15:27:15.123Z",
+        "executionMachine": "DESKTOP-IS3TUP4",
+        "testSteps": [
+          {
+            "teststepName": "Before Hooks › Fixture \"browser\" › Launch browser",
+            "stepType": "PLAYWRIGHT_API",
+            "status": "FAILED",
+            "startTime": "2026-09-08T15:27:15.213Z",
+            "endTime": "2026-09-08T15:27:15.227Z",
+            "errorMessage": "Error: browserType.launch: Executable doesn't exist at C:\\Users\\ADMIN\\AppData\\Local\\ms-playwright\\chromium-1243\\chrome-win64\\chrome.exe\n╔════════════════════════════════════════════════════════════╗\n║ Looks like Playwright was just installed or updated.       ║\n║ Please run the following command to download new browsers: ║\n║                                                            ║\n║     npx playwright install                                 ║\n║                                                            ║\n║ <3 Playwright Team                                         ║\n╚════════════════════════════════════════════════════════════╝",
+            "screenshots": []
+          }
+        ]
+      },
+      {
+        "testcaseName": " › chromium › SDLogin.spec.js › testcase for user2",
+        "status": "FAILED",
+        "failureReason": "Before Hooks › Fixture \"browser\" › Launch browser: Error: browserType.launch: Executable doesn't exist at C:\\Users\\ADMIN\\AppData\\Local\\ms-playwright\\chromium-1243\\chrome-win64\\chrome.exe\n╔════════════════════════════════════════════════════════════╗\n║ Looks like Playwright was just installed or updated.       ║\n║ Please run the following command to download new browsers: ║\n║                                                            ║\n║     npx playwright install                                 ║\n║                                                            ║\n║ <3 Playwright Team                                         ║\n╚════════════════════════════════════════════════════════════╝",
+        "tags": [
+          "chromium"
+        ],
+        "startTime": "2026-09-08T15:27:15.078Z",
+        "endTime": "2026-09-08T15:27:15.132Z",
+        "executionMachine": "DESKTOP-IS3TUP4",
+        "testSteps": [
+          {
+            "teststepName": "Before Hooks › Fixture \"browser\" › Launch browser",
+            "stepType": "PLAYWRIGHT_API",
+            "status": "FAILED",
+            "startTime": "2026-09-08T15:27:15.218Z",
+            "endTime": "2026-09-08T15:27:15.239Z",
+            "errorMessage": "Error: browserType.launch: Executable doesn't exist at C:\\Users\\ADMIN\\AppData\\Local\\ms-playwright\\chromium-1243\\chrome-win64\\chrome.exe\n╔════════════════════════════════════════════════════════════╗\n║ Looks like Playwright was just installed or updated.       ║\n║ Please run the following command to download new browsers: ║\n║                                                            ║\n║     npx playwright install                                 ║\n║                                                            ║\n║ <3 Playwright Team                                         ║\n╚════════════════════════════════════════════════════════════╝",
+            "screenshots": []
+          }
+        ]
+      },
+      {
+        "testcaseName": " › chromium › SDLogin.spec.js › testcase for user5",
+        "status": "FAILED",
+        "failureReason": "Before Hooks › Fixture \"browser\" › Launch browser: Error: browserType.launch: Executable doesn't exist at C:\\Users\\ADMIN\\AppData\\Local\\ms-playwright\\chromium-1243\\chrome-win64\\chrome.exe\n╔════════════════════════════════════════════════════════════╗\n║ Looks like Playwright was just installed or updated.       ║\n║ Please run the following command to download new browsers: ║\n║                                                            ║\n║     npx playwright install                                 ║\n║                                                            ║\n║ <3 Playwright Team                                         ║\n╚════════════════════════════════════════════════════════════╝",
+        "tags": [
+          "chromium"
+        ],
+        "startTime": "2026-09-08T15:27:15.098Z",
+        "endTime": "2026-09-08T15:27:15.137Z",
+        "executionMachine": "DESKTOP-IS3TUP4",
+        "testSteps": [
+          {
+            "teststepName": "Before Hooks › Fixture \"browser\" › Launch browser",
+            "stepType": "PLAYWRIGHT_API",
+            "status": "FAILED",
+            "startTime": "2026-09-08T15:27:15.235Z",
+            "endTime": "2026-09-08T15:27:15.250Z",
+            "errorMessage": "Error: browserType.launch: Executable doesn't exist at C:\\Users\\ADMIN\\AppData\\Local\\ms-playwright\\chromium-1243\\chrome-win64\\chrome.exe\n╔════════════════════════════════════════════════════════════╗\n║ Looks like Playwright was just installed or updated.       ║\n║ Please run the following command to download new browsers: ║\n║                                                            ║\n║     npx playwright install                                 ║\n║                                                            ║\n║ <3 Playwright Team                                         ║\n╚════════════════════════════════════════════════════════════╝",
+            "screenshots": []
+          }
+        ]
+      },
+      {
+        "testcaseName": " › chromium › SDLogin.spec.js › testcase for user7",
+        "status": "FAILED",
+        "failureReason": "Before Hooks › Fixture \"browser\" › Launch browser: Error: browserType.launch: Executable doesn't exist at C:\\Users\\ADMIN\\AppData\\Local\\ms-playwright\\chromium-1243\\chrome-win64\\chrome.exe\n╔════════════════════════════════════════════════════════════╗\n║ Looks like Playwright was just installed or updated.       ║\n║ Please run the following command to download new browsers: ║\n║                                                            ║\n║     npx playwright install                                 ║\n║                                                            ║\n║ <3 Playwright Team                                         ║\n╚════════════════════════════════════════════════════════════╝",
+        "tags": [
+          "chromium"
+        ],
+        "startTime": "2026-09-08T15:27:17.780Z",
+        "endTime": "2026-09-08T15:27:17.825Z",
+        "executionMachine": "DESKTOP-IS3TUP4",
+        "testSteps": [
+          {
+            "teststepName": "Before Hooks › Fixture \"browser\" › Launch browser",
+            "stepType": "PLAYWRIGHT_API",
+            "status": "FAILED",
+            "startTime": "2026-09-08T15:27:17.911Z",
+            "endTime": "2026-09-08T15:27:17.923Z",
+            "errorMessage": "Error: browserType.launch: Executable doesn't exist at C:\\Users\\ADMIN\\AppData\\Local\\ms-playwright\\chromium-1243\\chrome-win64\\chrome.exe\n╔════════════════════════════════════════════════════════════╗\n║ Looks like Playwright was just installed or updated.       ║\n║ Please run the following command to download new browsers: ║\n║                                                            ║\n║     npx playwright install                                 ║\n║                                                            ║\n║ <3 Playwright Team                                         ║\n╚════════════════════════════════════════════════════════════╝",
+            "screenshots": []
+          }
+        ]
+      },
+      {
+        "testcaseName": " › chromium › submitform.spec.js › submit form",
+        "status": "FAILED",
+        "failureReason": "Before Hooks › Fixture \"browser\" › Launch browser: Error: browserType.launch: Executable doesn't exist at C:\\Users\\ADMIN\\AppData\\Local\\ms-playwright\\chromium-1243\\chrome-win64\\chrome.exe\n╔════════════════════════════════════════════════════════════╗\n║ Looks like Playwright was just installed or updated.       ║\n║ Please run the following command to download new browsers: ║\n║                                                            ║\n║     npx playwright install                                 ║\n║                                                            ║\n║ <3 Playwright Team                                         ║\n╚════════════════════════════════════════════════════════════╝",
+        "tags": [
+          "chromium"
+        ],
+        "startTime": "2026-09-08T15:27:17.819Z",
+        "endTime": "2026-09-08T15:27:17.870Z",
+        "executionMachine": "DESKTOP-IS3TUP4",
+        "testSteps": [
+          {
+            "teststepName": "Before Hooks › Fixture \"browser\" › Launch browser",
+            "stepType": "PLAYWRIGHT_API",
+            "status": "FAILED",
+            "startTime": "2026-09-08T15:27:17.956Z",
+            "endTime": "2026-09-08T15:27:17.976Z",
+            "errorMessage": "Error: browserType.launch: Executable doesn't exist at C:\\Users\\ADMIN\\AppData\\Local\\ms-playwright\\chromium-1243\\chrome-win64\\chrome.exe\n╔════════════════════════════════════════════════════════════╗\n║ Looks like Playwright was just installed or updated.       ║\n║ Please run the following command to download new browsers: ║\n║                                                            ║\n║     npx playwright install                                 ║\n║                                                            ║\n║ <3 Playwright Team                                         ║\n╚════════════════════════════════════════════════════════════╝",
+            "screenshots": []
+          }
+        ]
+      },
+      {
+        "testcaseName": " › chromium › SDLogin.spec.js › testcase for user6",
+        "status": "FAILED",
+        "failureReason": "Before Hooks › Fixture \"browser\" › Launch browser: Error: browserType.launch: Executable doesn't exist at C:\\Users\\ADMIN\\AppData\\Local\\ms-playwright\\chromium-1243\\chrome-win64\\chrome.exe\n╔════════════════════════════════════════════════════════════╗\n║ Looks like Playwright was just installed or updated.       ║\n║ Please run the following command to download new browsers: ║\n║                                                            ║\n║     npx playwright install                                 ║\n║                                                            ║\n║ <3 Playwright Team                                         ║\n╚════════════════════════════════════════════════════════════╝",
+        "tags": [
+          "chromium"
+        ],
+        "startTime": "2026-09-08T15:27:17.856Z",
+        "endTime": "2026-09-08T15:27:17.903Z",
+        "executionMachine": "DESKTOP-IS3TUP4",
+        "testSteps": [
+          {
+            "teststepName": "Before Hooks › Fixture \"browser\" › Launch browser",
+            "stepType": "PLAYWRIGHT_API",
+            "status": "FAILED",
+            "startTime": "2026-09-08T15:27:17.988Z",
+            "endTime": "2026-09-08T15:27:18.004Z",
+            "errorMessage": "Error: browserType.launch: Executable doesn't exist at C:\\Users\\ADMIN\\AppData\\Local\\ms-playwright\\chromium-1243\\chrome-win64\\chrome.exe\n╔════════════════════════════════════════════════════════════╗\n║ Looks like Playwright was just installed or updated.       ║\n║ Please run the following command to download new browsers: ║\n║                                                            ║\n║     npx playwright install                                 ║\n║                                                            ║\n║ <3 Playwright Team                                         ║\n╚════════════════════════════════════════════════════════════╝",
+            "screenshots": []
+          }
+        ]
+      }
+    ]
+  }
+}

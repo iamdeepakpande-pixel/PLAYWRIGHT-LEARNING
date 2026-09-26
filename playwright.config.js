@@ -13,6 +13,8 @@ import { defineConfig, devices } from "@playwright/test";
  * @see https://playwright.dev/docs/test-configuration
  */
 export default defineConfig({
+  // MERV: specs keep import from '@playwright/test' (resolved via ./jsconfig.json).
+  tsconfig: './jsconfig.json',
   testDir: "./tests",
   /* Run tests in files in parallel */
   fullyParallel: true,
@@ -23,7 +25,12 @@ export default defineConfig({
   /* Opt out of parallel tests on CI. */
   workers: process.env.CI ? 1 : undefined,
   /* Reporter to use. See https://playwright.dev/docs/test-reporters */
-  reporter: [["html"], ["json"]],
+  reporter: [
+    ['json'],
+    // ['json'],
+    ["html"],
+    ['merv-client-playwright/reporter', {}],
+  ],
   /* Shared settings for all the projects below. See https://playwright.dev/docs/api/class-testoptions. */
   use: {
     /* Base URL to use in actions like `await page.goto('')`. */
