@@ -1,0 +1,81 @@
+{
+  "version": "1.0",
+  "exportDate": "Tue Sep 08 2026 18:31:27 GMT+0300 (Eastern European Summer Time)",
+  "suiteTitle": "playwright-learning",
+  "running": false,
+  "failureCount": 6,
+  "failures": [
+    {
+      "testcaseName": "› chromium › SDLogin.spec.js › testcase for user2",
+      "status": "FAILED",
+      "failureReason": "Expect \"toHaveURL\": Error: expect(page).toHaveURL(expected) failed\n\nExpected: \"https://www.saucedemo.com/inventory.html\"\nReceived: \"https://www.saucedemo.com/\"\nTimeout:  5000ms\n\nCall log:\n  - Expect \"toHaveURL\" with timeout 5000ms\n    13 × locator resolved to <html lang=\"en\">…</html>\n       - unexpected value \"https://www.saucedemo.com/\"\n\n    at Proxy.toHaveURL (C:\\Users\\ADMIN\\Desktop\\PLAYWRIGHT LEARNING\\node_modules\\merv-client-playwright\\dist\\playwright-test-shim.js:39:26)\n    at C:\\Users\\ADMIN\\Desktop\\PLAYWRIGHT LEARNING\\tests\\SDLogin.spec.js:14:24\n\n12 |     await page.locator('[data-test=\"password\"]').fill(loginCred.password);\n  13 |     await page.locator('[data-test=\"login-button\"]').click();\n> 14 |     await expect(page).toHaveURL(\"https://www.saucedemo.com/inventory.html\");\n     |                        ^\n  15 |   });\n  16 | }\n  17 |",
+      "tags": [
+        "chromium"
+      ],
+      "startTime": "2026-09-08T15:30:56.971Z",
+      "endTime": "2026-09-08T15:31:06.303Z",
+      "executionMachine": "DESKTOP-IS3TUP4",
+      "testdataSteps": []
+    },
+    {
+      "testcaseName": "› chromium › SDLogin.spec.js › testcase for user3",
+      "status": "FAILED",
+      "failureReason": "Expect \"toHaveURL\": Error: expect(page).toHaveURL(expected) failed\n\nExpected: \"https://www.saucedemo.com/inventory.html\"\nReceived: \"https://www.saucedemo.com/\"\nTimeout:  5000ms\n\nCall log:\n  - Expect \"toHaveURL\" with timeout 5000ms\n    14 × locator resolved to <html lang=\"en\">…</html>\n       - unexpected value \"https://www.saucedemo.com/\"\n\n    at Proxy.toHaveURL (C:\\Users\\ADMIN\\Desktop\\PLAYWRIGHT LEARNING\\node_modules\\merv-client-playwright\\dist\\playwright-test-shim.js:39:26)\n    at C:\\Users\\ADMIN\\Desktop\\PLAYWRIGHT LEARNING\\tests\\SDLogin.spec.js:14:24\n\n12 |     await page.locator('[data-test=\"password\"]').fill(loginCred.password);\n  13 |     await page.locator('[data-test=\"login-button\"]').click();\n> 14 |     await expect(page).toHaveURL(\"https://www.saucedemo.com/inventory.html\");\n     |                        ^\n  15 |   });\n  16 | }\n  17 |",
+      "tags": [
+        "chromium"
+      ],
+      "startTime": "2026-09-08T15:31:02.126Z",
+      "endTime": "2026-09-08T15:31:12.661Z",
+      "executionMachine": "DESKTOP-IS3TUP4",
+      "testdataSteps": []
+    },
+    {
+      "testcaseName": "› chromium › SDLogin.spec.js › testcase for user4",
+      "status": "FAILED",
+      "failureReason": "Expect \"toHaveURL\": Error: expect(page).toHaveURL(expected) failed\n\nExpected: \"https://www.saucedemo.com/inventory.html\"\nReceived: \"https://www.saucedemo.com/\"\nTimeout:  5000ms\n\nCall log:\n  - Expect \"toHaveURL\" with timeout 5000ms\n    13 × locator resolved to <html lang=\"en\">…</html>\n       - unexpected value \"https://www.saucedemo.com/\"\n\n    at Proxy.toHaveURL (C:\\Users\\ADMIN\\Desktop\\PLAYWRIGHT LEARNING\\node_modules\\merv-client-playwright\\dist\\playwright-test-shim.js:39:26)\n    at C:\\Users\\ADMIN\\Desktop\\PLAYWRIGHT LEARNING\\tests\\SDLogin.spec.js:14:24\n\n12 |     await page.locator('[data-test=\"password\"]').fill(loginCred.password);\n  13 |     await page.locator('[data-test=\"login-button\"]').click();\n> 14 |     await expect(page).toHaveURL(\"https://www.saucedemo.com/inventory.html\");\n     |                        ^\n  15 |   });\n  16 | }\n  17 |",
+      "tags": [
+        "chromium"
+      ],
+      "startTime": "2026-09-08T15:31:08.597Z",
+      "endTime": "2026-09-08T15:31:18.363Z",
+      "executionMachine": "DESKTOP-IS3TUP4",
+      "testdataSteps": []
+    },
+    {
+      "testcaseName": "› chromium › SDLogin.spec.js › testcase for user5",
+      "status": "FAILED",
+      "failureReason": "Expect \"toHaveURL\": Error: expect(page).toHaveURL(expected) failed\n\nExpected: \"https://www.saucedemo.com/inventory.html\"\nReceived: \"https://www.saucedemo.com/\"\nTimeout:  5000ms\n\nCall log:\n  - Expect \"toHaveURL\" with timeout 5000ms\n    13 × locator resolved to <html lang=\"en\">…</html>\n       - unexpected value \"https://www.saucedemo.com/\"\n\n    at Proxy.toHaveURL (C:\\Users\\ADMIN\\Desktop\\PLAYWRIGHT LEARNING\\node_modules\\merv-client-playwright\\dist\\playwright-test-shim.js:39:26)\n    at C:\\Users\\ADMIN\\Desktop\\PLAYWRIGHT LEARNING\\tests\\SDLogin.spec.js:14:24\n\n12 |     await page.locator('[data-test=\"password\"]').fill(loginCred.password);\n  13 |     await page.locator('[data-test=\"login-button\"]').click();\n> 14 |     await expect(page).toHaveURL(\"https://www.saucedemo.com/inventory.html\");\n     |                        ^\n  15 |   });\n  16 | }\n  17 |",
+      "tags": [
+        "chromium"
+      ],
+      "startTime": "2026-09-08T15:31:10.729Z",
+      "endTime": "2026-09-08T15:31:21.092Z",
+      "executionMachine": "DESKTOP-IS3TUP4",
+      "testdataSteps": []
+    },
+    {
+      "testcaseName": "› chromium › SDLogin.spec.js › testcase for user6",
+      "status": "FAILED",
+      "failureReason": "Expect \"toHaveURL\": Error: expect(page).toHaveURL(expected) failed\n\nExpected: \"https://www.saucedemo.com/inventory.html\"\nReceived: \"https://www.saucedemo.com/\"\nTimeout:  5000ms\n\nCall log:\n  - Expect \"toHaveURL\" with timeout 5000ms\n    13 × locator resolved to <html lang=\"en\">…</html>\n       - unexpected value \"https://www.saucedemo.com/\"\n\n    at Proxy.toHaveURL (C:\\Users\\ADMIN\\Desktop\\PLAYWRIGHT LEARNING\\node_modules\\merv-client-playwright\\dist\\playwright-test-shim.js:39:26)\n    at C:\\Users\\ADMIN\\Desktop\\PLAYWRIGHT LEARNING\\tests\\SDLogin.spec.js:14:24\n\n12 |     await page.locator('[data-test=\"password\"]').fill(loginCred.password);\n  13 |     await page.locator('[data-test=\"login-button\"]').click();\n> 14 |     await expect(page).toHaveURL(\"https://www.saucedemo.com/inventory.html\");\n     |                        ^\n  15 |   });\n  16 | }\n  17 |",
+      "tags": [
+        "chromium"
+      ],
+      "startTime": "2026-09-08T15:31:14.978Z",
+      "endTime": "2026-09-08T15:31:23.973Z",
+      "executionMachine": "DESKTOP-IS3TUP4",
+      "testdataSteps": []
+    },
+    {
+      "testcaseName": "› chromium › SDLogin.spec.js › testcase for user7",
+      "status": "FAILED",
+      "failureReason": "Expect \"toHaveURL\": Error: expect(page).toHaveURL(expected) failed\n\nExpected: \"https://www.saucedemo.com/inventory.html\"\nReceived: \"https://www.saucedemo.com/\"\nTimeout:  5000ms\n\nCall log:\n  - Expect \"toHaveURL\" with timeout 5000ms\n    13 × locator resolved to <html lang=\"en\">…</html>\n       - unexpected value \"https://www.saucedemo.com/\"\n\n    at Proxy.toHaveURL (C:\\Users\\ADMIN\\Desktop\\PLAYWRIGHT LEARNING\\node_modules\\merv-client-playwright\\dist\\playwright-test-shim.js:39:26)\n    at C:\\Users\\ADMIN\\Desktop\\PLAYWRIGHT LEARNING\\tests\\SDLogin.spec.js:14:24\n\n12 |     await page.locator('[data-test=\"password\"]').fill(loginCred.password);\n  13 |     await page.locator('[data-test=\"login-button\"]').click();\n> 14 |     await expect(page).toHaveURL(\"https://www.saucedemo.com/inventory.html\");\n     |                        ^\n  15 |   });\n  16 | }\n  17 |",
+      "tags": [
+        "chromium"
+      ],
+      "startTime": "2026-09-08T15:31:16.704Z",
+      "endTime": "2026-09-08T15:31:26.337Z",
+      "executionMachine": "DESKTOP-IS3TUP4",
+      "testdataSteps": []
+    }
+  ]
+}

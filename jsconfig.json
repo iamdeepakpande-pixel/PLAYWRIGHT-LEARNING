@@ -1,7 +1,7 @@
 {
   "compilerOptions": {
     "module": "ESNext",
-    "moduleResolution": "Bundler",
+    "moduleResolution": "bundler",
     "target": "ES2024",
     "jsx": "react-jsx",
     "allowImportingTsExtensions": true,
@@ -9,7 +9,23 @@
     "experimentalDecorators": false,
     "strictNullChecks": true,
     "strictFunctionTypes": true,
-    "strict": true
+    "strict": true,
+    "baseUrl": ".",
+    "allowJs": true,
+    "paths": {
+      "@playwright/test": [
+        "./tests/support/playwright-test-bridge.js"
+      ]
+    }
   },
-  "exclude": ["node_modules", "**/node_modules/*"]
+  "exclude": [
+    "node_modules",
+    "**/node_modules/*",
+    "playwright.config.js",
+    "playwright.config.mjs",
+    "playwright.config.cjs"
+  ],
+  "include": [
+    "tests/**/*.js"
+  ]
 }

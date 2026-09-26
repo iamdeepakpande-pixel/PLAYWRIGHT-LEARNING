@@ -7,8 +7,8 @@
   "type": "module",
   "main": "index.js",
   "scripts": {
-    "mervtutoropen" : "merv-tutor open",
-    "mervtutorclose" : "merv-tutor close",
+    "mervtutoropen": "merv-tutor open",
+    "mervtutorclose": "merv-tutor close",
     "headed": "playwright test --headed",
     "test": "playwright test",
     "test:seed": "playwright test tests/seed.spec.ts --project=chromium",
@@ -18,13 +18,14 @@
   },
   "dependencies": {
     "@playwright/cli": "^0.1.17",
-    "merv-client": "^4.0.22",
     "merv-tutor": "^4.0.22",
     "playwright": "^1.61.1",
     "prompt-sync": "^4.2.0"
   },
   "devDependencies": {
-    "@playwright/test": "^1.62.1",
-    "@types/node": "^26.1.1"
+    "@playwright/test": "^1.63.0",
+    "@types/node": "^26.1.1",
+    "merv-client": "^4.0.23",
+    "merv-client-playwright": "^4.0.23"
   }
 }

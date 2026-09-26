@@ -1,4 +1,41 @@
 {
-  "generatedAtMillis": 1786461257235,
-  "failureReasons": []
+  "generatedAtMillis": 1790159572982,
+  "failureReasons": [
+    {
+      "reason": "Expect \"toHaveURL\": Error: expect(page).toHaveURL(expected) failed\n\nExpected: \"https://www.saucedemo.com/inventory.html\"\nReceived: \"https://www.saucedemo.com/\"\nTimeout:  5000ms",
+      "count": 6,
+      "testcases": [
+        {
+          "testcaseName": "› chromium › SDLogin.spec.js › testcase for user3",
+          "runFolder": "08-09-2026 18-30-28 Merv-Report",
+          "runTimestampMillis": 1788881487395.3052
+        },
+        {
+          "testcaseName": "› chromium › SDLogin.spec.js › testcase for user4",
+          "runFolder": "08-09-2026 18-30-28 Merv-Report",
+          "runTimestampMillis": 1788881487395.3052
+        },
+        {
+          "testcaseName": "› chromium › SDLogin.spec.js › testcase for user2",
+          "runFolder": "08-09-2026 18-30-28 Merv-Report",
+          "runTimestampMillis": 1788881487395.3052
+        },
+        {
+          "testcaseName": "› chromium › SDLogin.spec.js › testcase for user5",
+          "runFolder": "08-09-2026 18-30-28 Merv-Report",
+          "runTimestampMillis": 1788881487395.3052
+        },
+        {
+          "testcaseName": "› chromium › SDLogin.spec.js › testcase for user7",
+          "runFolder": "08-09-2026 18-30-28 Merv-Report",
+          "runTimestampMillis": 1788881487395.3052
+        },
+        {
+          "testcaseName": "› chromium › SDLogin.spec.js › testcase for user6",
+          "runFolder": "08-09-2026 18-30-28 Merv-Report",
+          "runTimestampMillis": 1788881487395.3052
+        }
+      ]
+    }
+  ]
 }

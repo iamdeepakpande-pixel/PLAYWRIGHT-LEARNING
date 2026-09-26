@@ -1,0 +1,217 @@
+{
+  "version": "1.0",
+  "running": false,
+  "lastActivityMillis": 1790159572967,
+  "exportDate": "Wed Sep 23 2026 13:32:52 GMT+0300 (Eastern European Summer Time)",
+  "testSuite": {
+    "title": "playwright-learning",
+    "startTime": "2026-09-23T10:32:06.472Z",
+    "endTime": "2026-09-23T10:32:52.967Z",
+    "testCases": [
+      {
+        "testcaseName": " › chromium › formsubmission.spec.js › form submission test",
+        "status": "PASSED",
+        "failureReason": null,
+        "tags": [
+          "chromium"
+        ],
+        "startTime": "2026-09-23T10:32:07.441Z",
+        "endTime": "2026-09-23T10:32:37.240Z",
+        "executionMachine": "DESKTOP-IS3TUP4",
+        "testSteps": [
+          {
+            "teststepName": "Before Hooks › Fixture \"browser\" › Launch browser",
+            "stepType": "PLAYWRIGHT_API",
+            "status": "PASSED",
+            "startTime": "2026-09-23T10:32:07.541Z",
+            "endTime": "2026-09-23T10:32:22.409Z",
+            "errorMessage": null,
+            "screenshots": []
+          },
+          {
+            "teststepName": "Before Hooks › Fixture \"context\" › Create context",
+            "stepType": "PLAYWRIGHT_API",
+            "status": "PASSED",
+            "startTime": "2026-09-23T10:32:22.416Z",
+            "endTime": "2026-09-23T10:32:22.433Z",
+            "errorMessage": null,
+            "screenshots": []
+          },
+          {
+            "teststepName": "Before Hooks › Fixture \"page\" › Create page",
+            "stepType": "PLAYWRIGHT_API",
+            "status": "PASSED",
+            "startTime": "2026-09-23T10:32:22.440Z",
+            "endTime": "2026-09-23T10:32:24.099Z",
+            "errorMessage": null,
+            "screenshots": []
+          },
+          {
+            "teststepName": "Navigate",
+            "stepType": "PLAYWRIGHT_API",
+            "status": "PASSED",
+            "startTime": "2026-09-23T10:32:24.110Z",
+            "endTime": "2026-09-23T10:32:27.521Z",
+            "errorMessage": null,
+            "screenshots": [
+              "screenshots/0b66fa5b96f58b7ca42d-0f095c581accfb457a65-step11-0.png"
+            ]
+          },
+          {
+            "teststepName": "Click",
+            "stepType": "PLAYWRIGHT_API",
+            "status": "PASSED",
+            "startTime": "2026-09-23T10:32:27.701Z",
+            "endTime": "2026-09-23T10:32:27.789Z",
+            "errorMessage": null,
+            "screenshots": [
+              "screenshots/0b66fa5b96f58b7ca42d-0f095c581accfb457a65-step14-0.png"
+            ]
+          },
+          {
+            "teststepName": "Expect \"toHaveTitle\"",
+            "stepType": "EXPECT",
+            "status": "PASSED",
+            "startTime": "2026-09-23T10:32:28.277Z",
+            "endTime": "2026-09-23T10:32:28.314Z",
+            "errorMessage": null,
+            "screenshots": [
+              "screenshots/0b66fa5b96f58b7ca42d-0f095c581accfb457a65-step17-0.png"
+            ]
+          },
+          {
+            "teststepName": "Fill \"Deepak Pande\"",
+            "stepType": "PLAYWRIGHT_API",
+            "status": "PASSED",
+            "startTime": "2026-09-23T10:32:28.461Z",
+            "endTime": "2026-09-23T10:32:28.491Z",
+            "errorMessage": null,
+            "screenshots": [
+              "screenshots/0b66fa5b96f58b7ca42d-0f095c581accfb457a65-step20-0.png"
+            ]
+          },
+          {
+            "teststepName": "Fill \"DSPANDE@GMAIL.COM\"",
+            "stepType": "PLAYWRIGHT_API",
+            "status": "PASSED",
+            "startTime": "2026-09-23T10:32:28.571Z",
+            "endTime": "2026-09-23T10:32:28.593Z",
+            "errorMessage": null,
+            "screenshots": [
+              "screenshots/0b66fa5b96f58b7ca42d-0f095c581accfb457a65-step23-0.png"
+            ]
+          },
+          {
+            "teststepName": "Fill \"DSP@123\"",
+            "stepType": "PLAYWRIGHT_API",
+            "status": "PASSED",
+            "startTime": "2026-09-23T10:32:28.654Z",
+            "endTime": "2026-09-23T10:32:28.692Z",
+            "errorMessage": null,
+            "screenshots": [
+              "screenshots/0b66fa5b96f58b7ca42d-0f095c581accfb457a65-step26-0.png"
+            ]
+          },
+          {
+            "teststepName": "Fill \"9876543210\"",
+            "stepType": "PLAYWRIGHT_API",
+            "status": "PASSED",
+            "startTime": "2026-09-23T10:32:28.766Z",
+            "endTime": "2026-09-23T10:32:28.793Z",
+            "errorMessage": null,
+            "screenshots": [
+              "screenshots/0b66fa5b96f58b7ca42d-0f095c581accfb457a65-step29-0.png"
+            ]
+          },
+          {
+            "teststepName": "Fill \"25\"",
+            "stepType": "PLAYWRIGHT_API",
+            "status": "PASSED",
+            "startTime": "2026-09-23T10:32:29.113Z",
+            "endTime": "2026-09-23T10:32:29.132Z",
+            "errorMessage": null,
+            "screenshots": [
+              "screenshots/0b66fa5b96f58b7ca42d-0f095c581accfb457a65-step32-0.png"
+            ]
+          },
+          {
+            "teststepName": "Select option",
+            "stepType": "PLAYWRIGHT_API",
+            "status": "PASSED",
+            "startTime": "2026-09-23T10:32:29.292Z",
+            "endTime": "2026-09-23T10:32:29.309Z",
+            "errorMessage": null,
+            "screenshots": [
+              "screenshots/0b66fa5b96f58b7ca42d-0f095c581accfb457a65-step35-0.png"
+            ]
+          },
+          {
+            "teststepName": "Fill \"I am a software tester\"",
+            "stepType": "PLAYWRIGHT_API",
+            "status": "PASSED",
+            "startTime": "2026-09-23T10:32:29.367Z",
+            "endTime": "2026-09-23T10:32:29.386Z",
+            "errorMessage": null,
+            "screenshots": [
+              "screenshots/0b66fa5b96f58b7ca42d-0f095c581accfb457a65-step38-0.png"
+            ]
+          },
+          {
+            "teststepName": "Wait for timeout",
+            "stepType": "PLAYWRIGHT_API",
+            "status": "PASSED",
+            "startTime": "2026-09-23T10:32:29.458Z",
+            "endTime": "2026-09-23T10:32:39.472Z",
+            "errorMessage": null,
+            "screenshots": []
+          },
+          {
+            "teststepName": "Click",
+            "stepType": "PLAYWRIGHT_API",
+            "status": "PASSED",
+            "startTime": "2026-09-23T10:32:39.475Z",
+            "endTime": "2026-09-23T10:32:39.546Z",
+            "errorMessage": null,
+            "screenshots": [
+              "screenshots/0b66fa5b96f58b7ca42d-0f095c581accfb457a65-step42-0.png"
+            ]
+          },
+          {
+            "teststepName": "Expect \"toBeVisible\"",
+            "stepType": "EXPECT",
+            "status": "PASSED",
+            "startTime": "2026-09-23T10:32:39.622Z",
+            "endTime": "2026-09-23T10:32:39.631Z",
+            "errorMessage": null,
+            "screenshots": [
+              "screenshots/0b66fa5b96f58b7ca42d-0f095c581accfb457a65-step45-0.png"
+            ]
+          },
+          {
+            "teststepName": "Wait for timeout",
+            "stepType": "PLAYWRIGHT_API",
+            "status": "PASSED",
+            "startTime": "2026-09-23T10:32:39.696Z",
+            "endTime": "2026-09-23T10:32:49.711Z",
+            "errorMessage": null,
+            "screenshots": []
+          },
+          {
+            "teststepName": "After Hooks › Fixture \"context\" › Close context",
+            "stepType": "PLAYWRIGHT_API",
+            "status": "PASSED",
+            "startTime": "2026-09-23T10:32:49.768Z",
+            "endTime": "2026-09-23T10:32:52.177Z",
+            "errorMessage": null,
+            "screenshots": [
+              "screenshots/0b66fa5b96f58b7ca42d-0f095c581accfb457a65-att0.png"
+            ]
+          }
+        ],
+        "videos": [
+          "videos/0b66fa5b96f58b7ca42d-0f095c581accfb457a65-video1.webm"
+        ]
+      }
+    ]
+  }
+}
